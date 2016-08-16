@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".PrefectCityActivity">
+
+    <RelativeLayout
+        android:id="@+id/layout_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/small_margin"
+            android:clickable="true"
+            android:text="返回"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/title_bar_text"
+            android:textColor="@color/black"
+            android:text="城市选择"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_action"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_top"
+        android:background="@color/white"
+        android:layout_marginTop="1dp">
+
+        <LinearLayout
+            android:id="@+id/layout_country"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/small_margin"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/btn_china"
+                android:layout_width="70dp"
+                android:layout_height="25dp"
+                android:background="@drawable/country_select2"
+                android:text="国内"
+                android:textColor="@color/white"/>
+
+            <Button
+                android:id="@+id/btn_international"
+                android:layout_width="70dp"
+                android:layout_height="25dp"
+                android:background="@drawable/country_select"
+                android:textColor="@color/black"
+                android:layout_marginRight="2dp"
+                android:text="国外"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txt_current_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_country"
+            android:textColor="@color/black"
+            android:layout_margin="@dimen/small_margin"
+            android:text="杭州"/>
+
+
+        <TextView
+            android:id="@+id/txt_GPS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GPS定位"
+            android:layout_alignTop="@+id/txt_current_city"
+            android:layout_toRightOf="@+id/txt_current_city"
+            android:layout_toEndOf="@+id/txt_current_city" />
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_city"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layout_action"
+        android:layout_toLeftOf="@+id/letter_list"
+        android:layout_above="@+id/layout_bottom">
+    </android.support.v7.widget.RecyclerView>
+
+    <starer.com.cityselection.LetterView
+        android:id="@+id/letter_list"
+        android:layout_width="20dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="@color/white"
+        android:layout_below="@+id/layout_action"
+        android:layout_above="@+id/layout_bottom"/>
+
+    <RelativeLayout
+        android:id="@+id/layout_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/gray_background">
+        
+        <TextView
+            android:id="@+id/txt_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="12"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/txt_fix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="11sp"
+            android:text="已选\n城市"
+            android:layout_alignTop="@+id/txt_number"
+            android:layout_toRightOf="@+id/txt_number"
+            android:layout_toEndOf="@+id/txt_number" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_selected"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/small_margin"
+            android:layout_toRightOf="@+id/txt_fix">
+        </android.support.v7.widget.RecyclerView>
+    </RelativeLayout>
+</RelativeLayout>

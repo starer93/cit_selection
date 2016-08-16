@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentColor">#EBEBEB</color>
+    <color name="gray">#80808080</color>
+
+    <color name="primary_color">#28BEA5</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="black">#FF000000</color>
+    <color name="main_black">#505050</color>
+
+    <color name="blue">#ff03A9F4</color>
+    <color name="red">#ffF44336</color>
+    <color name="yellow">#ffFFEB3B</color>
+
+    <color name="gray_background">#dedede</color>
+    <color name="gray_light">#A0A0A0</color>
+
+    <color name="grey_clear">#33000000</color>
+
+    <color name="orange">#FF7828</color>
+
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#ff80ff00</color>
+    <color name="viewfinder_laser">#ff00ff00</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="viewfinder_box">#ffafafaf</color>
+
+
+    <color name="background_gray1">#EBEBEB</color>
+    <color name="background_gray3">#D4D4D4</color>
+    <color name="line">#DDDDDD</color>
+    <color name="line_btn">#BBBBBB</color>
+    <color name="text_gray1">#777777</color>
+    <color name="text_gray2">#767676</color>
+    <color name="text_blue1">#1173CB</color>
+    <!--蒙版-->
+
+</resources>

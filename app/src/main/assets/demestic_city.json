@@ -1,0 +1,7078 @@
+{
+"city":[
+  {
+    "city_id": 1,
+    "city_name": "衡水",
+    "city_pinyin": "hengshui",
+    "city_synonym": "hengshui,hs",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 2,
+    "city_name": "张家口",
+    "city_pinyin": "zhangjiakou",
+    "city_synonym": "zhangjiakou,zjk",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 3,
+    "city_name": "鄂州",
+    "city_pinyin": "ezhou",
+    "city_synonym": "ezhou,ez",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 4,
+    "city_name": "腾冲",
+    "city_pinyin": "tengchong",
+    "city_synonym": "tengchong,tc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 5,
+    "city_name": "万宁",
+    "city_pinyin": "wangning",
+    "city_synonym": "wangning,wn",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 6,
+    "city_name": "扬州",
+    "city_pinyin": "yangzhou",
+    "city_synonym": "yangzhou,yz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 7,
+    "city_name": "白山",
+    "city_pinyin": "baishan",
+    "city_synonym": "baishan,bs",
+    "city_level": 20000,
+    "city_priority": 4,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 8,
+    "city_name": "濮阳",
+    "city_pinyin": "puyang",
+    "city_synonym": "puyang,tq",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 9,
+    "city_name": "甘肃天水",
+    "city_pinyin": "gansutianshui",
+    "city_synonym": "gansutianshui,gsts",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 10,
+    "city_name": "大兴安岭",
+    "city_pinyin": "daxinganling",
+    "city_synonym": "daxinganling,dxal",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 11,
+    "city_name": "无锡",
+    "city_pinyin": "wuxi",
+    "city_synonym": "wuxi,wx",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 12,
+    "city_name": "楚雄",
+    "city_pinyin": "chuxiong",
+    "city_synonym": "chuxiong,cx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 13,
+    "city_name": "淄博",
+    "city_pinyin": "zibo",
+    "city_synonym": "zibo,zb",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 14,
+    "city_name": "阿克苏",
+    "city_pinyin": "akesu",
+    "city_synonym": "akesu,aks",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 15,
+    "city_name": "贵阳",
+    "city_pinyin": "guiyang",
+    "city_synonym": "guiyang,gy",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 16,
+    "city_name": "晋城",
+    "city_pinyin": "jincheng",
+    "city_synonym": "jincheng,jc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 17,
+    "city_name": "乌海",
+    "city_pinyin": "wuhai",
+    "city_synonym": "wuhai,wh",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 18,
+    "city_name": "德宏芒市",
+    "city_pinyin": "dehongmangshi",
+    "city_synonym": "dehongmangshi,dhms",
+    "city_level": 0,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 19,
+    "city_name": "大连",
+    "city_pinyin": "dalian",
+    "city_synonym": "dalian,dl",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 20,
+    "city_name": "三门峡",
+    "city_pinyin": "sanmenxia",
+    "city_synonym": "sanmenxia,smx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 21,
+    "city_name": "徐州",
+    "city_pinyin": "xuzhou",
+    "city_synonym": "xuzhou,xz",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 22,
+    "city_name": "肇东",
+    "city_pinyin": "zhaodong",
+    "city_synonym": "zhaodong,zd",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 23,
+    "city_name": "珠海",
+    "city_pinyin": "zhuhai",
+    "city_synonym": "zhuhai,zh",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 24,
+    "city_name": "克孜勒",
+    "city_pinyin": "kezile",
+    "city_synonym": "kezile,kzl",
+    "city_level": 20000,
+    "city_priority": 4,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 25,
+    "city_name": "库尔勒",
+    "city_pinyin": "keerla",
+    "city_synonym": "keerla,kel",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 26,
+    "city_name": "南宁",
+    "city_pinyin": "nanning",
+    "city_synonym": "nanning,nn",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 27,
+    "city_name": "四平",
+    "city_pinyin": "siping",
+    "city_synonym": "siping,sp",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 28,
+    "city_name": "莆田",
+    "city_pinyin": "putian",
+    "city_synonym": "putian,pt",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 29,
+    "city_name": "昆明",
+    "city_pinyin": "kunming",
+    "city_synonym": "kunming,km",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 30,
+    "city_name": "孝感",
+    "city_pinyin": "xiaogan",
+    "city_synonym": "xiaogan,xg",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 31,
+    "city_name": "满洲里",
+    "city_pinyin": "manzhouli",
+    "city_synonym": "manzhouli,mzl",
+    "city_level": 10000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 32,
+    "city_name": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "city_synonym": "qinhuangdao,qhd",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 33,
+    "city_name": "武汉",
+    "city_pinyin": "wuhan",
+    "city_synonym": "wuhan,wh",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 34,
+    "city_name": "阜新",
+    "city_pinyin": "fuxin",
+    "city_synonym": "fuxin,fx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 35,
+    "city_name": "资阳",
+    "city_pinyin": "ziyang",
+    "city_synonym": "ziyang,zy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 36,
+    "city_name": "韶关",
+    "city_pinyin": "shaoguan",
+    "city_synonym": "shaoguan,sg",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 37,
+    "city_name": "本溪",
+    "city_pinyin": "benxi",
+    "city_synonym": "benxi,bx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 38,
+    "city_name": "长治",
+    "city_pinyin": "changzhi",
+    "city_synonym": "changzhi,cz",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 40,
+    "city_name": "呼和浩特",
+    "city_pinyin": "huhehaote",
+    "city_synonym": "huhehaote,hhht",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 41,
+    "city_name": "喀纳斯",
+    "city_pinyin": "kanasi",
+    "city_synonym": "kanasi,kns",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 42,
+    "city_name": "哈密",
+    "city_pinyin": "hami",
+    "city_synonym": "hami,hm",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 43,
+    "city_name": "安庆",
+    "city_pinyin": "anqing",
+    "city_synonym": "anqing,aq",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 44,
+    "city_name": "湘潭",
+    "city_pinyin": "xiangtan",
+    "city_synonym": "xiangtan,xt",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 45,
+    "city_name": "开封",
+    "city_pinyin": "kaifeng",
+    "city_synonym": "kaifeng,kf",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 46,
+    "city_name": "零陵",
+    "city_pinyin": "lingling",
+    "city_synonym": "lingling,ll",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 47,
+    "city_name": "临沧",
+    "city_pinyin": "lincang",
+    "city_synonym": "lincang,lc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 48,
+    "city_name": "通州",
+    "city_pinyin": "tongzhou",
+    "city_synonym": "tongzhou,tz",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 49,
+    "city_name": "洛阳",
+    "city_pinyin": "luoyang",
+    "city_synonym": "luoyang,ly",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 50,
+    "city_name": "玉林",
+    "city_pinyin": "yulin",
+    "city_synonym": "yulin,yl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 51,
+    "city_name": "铜仁",
+    "city_pinyin": "tongren",
+    "city_synonym": "tongren,tr",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 52,
+    "city_name": "榆林",
+    "city_pinyin": "yulin",
+    "city_synonym": "yulin,yl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 53,
+    "city_name": "辽源",
+    "city_pinyin": "liaoyuan",
+    "city_synonym": "liaoyuan,ly",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 54,
+    "city_name": "克拉玛依",
+    "city_pinyin": "kelamayi",
+    "city_synonym": "kelamayi,klmy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 55,
+    "city_name": "乌鲁木齐",
+    "city_pinyin": "wulumuqi",
+    "city_synonym": "wulumuqi,wlmq",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 56,
+    "city_name": "曲靖",
+    "city_pinyin": "qujing",
+    "city_synonym": "qujing,qj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 57,
+    "city_name": "玉树巴塘",
+    "city_pinyin": "yushubatang",
+    "city_synonym": "yushubatang,ysbt",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 58,
+    "city_name": "佳木斯",
+    "city_pinyin": "jiamusi",
+    "city_synonym": "jiamusi,jms",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 59,
+    "city_name": "镇江",
+    "city_pinyin": "zhenjiang",
+    "city_synonym": "zhenjiang,zj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 60,
+    "city_name": "大青沟",
+    "city_pinyin": "daqinggou",
+    "city_synonym": "daqinggou,dqg",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 61,
+    "city_name": "漠河",
+    "city_pinyin": "mohe",
+    "city_synonym": "kuche,kc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 62,
+    "city_name": "娄底",
+    "city_pinyin": "loudi",
+    "city_synonym": "loudi,ld",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 63,
+    "city_name": "榆中",
+    "city_pinyin": "yuzhong",
+    "city_synonym": "yuzhong,yz",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 64,
+    "city_name": "松原",
+    "city_pinyin": "songyuan",
+    "city_synonym": "songyuan,sy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 65,
+    "city_name": "葫芦岛",
+    "city_pinyin": "huludao",
+    "city_synonym": "huludao,hld",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 66,
+    "city_name": "焦作",
+    "city_pinyin": "jiaozuo",
+    "city_synonym": "jiaozuo,jz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 67,
+    "city_name": "大关",
+    "city_pinyin": "daguan",
+    "city_synonym": "daguan,dg",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 68,
+    "city_name": "嘉峪关",
+    "city_pinyin": "jiayuguan",
+    "city_synonym": "jiayuguan,jyg",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 69,
+    "city_name": "通辽",
+    "city_pinyin": "tongliao",
+    "city_synonym": "tongliao,tl",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 70,
+    "city_name": "绥中",
+    "city_pinyin": "suizhong",
+    "city_synonym": "suizhong,sz",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 71,
+    "city_name": "盖州",
+    "city_pinyin": "gaizhou",
+    "city_synonym": "gaizhou,gz",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 72,
+    "city_name": "喀什",
+    "city_pinyin": "kashi",
+    "city_synonym": "kashi,ks",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 73,
+    "city_name": "沈阳",
+    "city_pinyin": "shenyang",
+    "city_synonym": "shenyang,sy",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 74,
+    "city_name": "防城港",
+    "city_pinyin": "fangchenggang",
+    "city_synonym": "fangchenggang,fcg",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 75,
+    "city_name": "济源",
+    "city_pinyin": "jiyuan",
+    "city_synonym": "jiyuan,jy",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 76,
+    "city_name": "蛟河",
+    "city_pinyin": "jiaohe",
+    "city_synonym": "jiaohe,jh",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 77,
+    "city_name": "汾阳",
+    "city_pinyin": "fengyang",
+    "city_synonym": "fengyang,fy",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 78,
+    "city_name": "吉安(井冈山机场)",
+    "city_pinyin": "jian",
+    "city_synonym": "jian,ja(jgsjc)",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 79,
+    "city_name": "乌兰浩特",
+    "city_pinyin": "wulanhaote",
+    "city_synonym": "wulanhaote,wlht",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 80,
+    "city_name": "连云港",
+    "city_pinyin": "lianyungang",
+    "city_synonym": "lianyungang,lyg",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 81,
+    "city_name": "卫中",
+    "city_pinyin": "weizhong",
+    "city_synonym": "weizhong,wz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 82,
+    "city_name": "福州",
+    "city_pinyin": "fuzhou",
+    "city_synonym": "fuzhou,fz",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 83,
+    "city_name": "德阳",
+    "city_pinyin": "deyang",
+    "city_synonym": "deyang,dy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 84,
+    "city_name": "清远",
+    "city_pinyin": "qingyuan",
+    "city_synonym": "qingyuan,qy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 85,
+    "city_name": "杭州",
+    "city_pinyin": "hangzhou",
+    "city_synonym": "hangzhou,hz",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 86,
+    "city_name": "嘉兴",
+    "city_pinyin": "jiaxing",
+    "city_synonym": "jiaxing,jx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 87,
+    "city_name": "怀化",
+    "city_pinyin": "huaihua",
+    "city_synonym": "huaihua,hh,zhijiang,zj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 88,
+    "city_name": "贺州",
+    "city_pinyin": "hezhou",
+    "city_synonym": "hezhou,hz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 89,
+    "city_name": "厦门",
+    "city_pinyin": "xiamen",
+    "city_synonym": "xiamen,xm",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 91,
+    "city_name": "丽江",
+    "city_pinyin": "lijiang",
+    "city_synonym": "lijiang,lj",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 92,
+    "city_name": "宁德",
+    "city_pinyin": "ningde",
+    "city_synonym": "ningde,nd",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 93,
+    "city_name": "宜兴",
+    "city_pinyin": "yixing",
+    "city_synonym": "yixing,yx",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 94,
+    "city_name": "九寨沟",
+    "city_pinyin": "jiuzhaigou",
+    "city_synonym": "jiuzhaigou,jzg",
+    "city_level": 10000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 95,
+    "city_name": "通海",
+    "city_pinyin": "tonghai",
+    "city_synonym": "tonghai,th",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 96,
+    "city_name": "安顺",
+    "city_pinyin": "anshun",
+    "city_synonym": "anshun,as",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 97,
+    "city_name": "绥化",
+    "city_pinyin": "suihua",
+    "city_synonym": "suihua,hl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 98,
+    "city_name": "枣庄",
+    "city_pinyin": "zaozhuang",
+    "city_synonym": "zaozhuang,zz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 99,
+    "city_name": "溧阳",
+    "city_pinyin": "liyang",
+    "city_synonym": "liyang,ly",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 100,
+    "city_name": "萍乡",
+    "city_pinyin": "pingxiang",
+    "city_synonym": "pingxiang,px",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 101,
+    "city_name": "安阳",
+    "city_pinyin": "anyang",
+    "city_synonym": "anyang,ay",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 102,
+    "city_name": "都江堰",
+    "city_pinyin": "dujiangyan",
+    "city_synonym": "dujiangyan,djy",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 103,
+    "city_name": "张掖",
+    "city_pinyin": "zhangye",
+    "city_synonym": "zhangye,zy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 104,
+    "city_name": "沂州",
+    "city_pinyin": "yizhou",
+    "city_synonym": "yizhou,yz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 105,
+    "city_name": "库伦",
+    "city_pinyin": "kulun",
+    "city_synonym": "kulun,kl",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 106,
+    "city_name": "日照",
+    "city_pinyin": "rizhao",
+    "city_synonym": "rizhao,rz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 107,
+    "city_name": "柳州",
+    "city_pinyin": "liuzhou",
+    "city_synonym": "liuzhou,lz",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 108,
+    "city_name": "兴安盟",
+    "city_pinyin": "xinganmeng",
+    "city_synonym": "xinganmeng,xam",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 109,
+    "city_name": "晋江",
+    "city_pinyin": "jinjiang",
+    "city_synonym": "jinjiang,jj",
+    "city_level": 10000,
+    "city_priority": 1,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 110,
+    "city_name": "遵义",
+    "city_pinyin": "zunyi",
+    "city_synonym": "zunyi,zy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 111,
+    "city_name": "钟山",
+    "city_pinyin": "zhongshan",
+    "city_synonym": "zhongshan,zs",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 112,
+    "city_name": "随州",
+    "city_pinyin": "suizhou",
+    "city_synonym": "suizhou,sz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 113,
+    "city_name": "常德",
+    "city_pinyin": "changde",
+    "city_synonym": "changde,cd",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 114,
+    "city_name": "崇左",
+    "city_pinyin": "chongzuo",
+    "city_synonym": "chongzuo,cz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 115,
+    "city_name": "揭阳",
+    "city_pinyin": "jieyang",
+    "city_synonym": "jieyang,jy",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 116,
+    "city_name": "保定",
+    "city_pinyin": "baoding",
+    "city_synonym": "baoding,bd",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 117,
+    "city_name": "益阳",
+    "city_pinyin": "yiyang",
+    "city_synonym": "yiyang,yy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 118,
+    "city_name": "富蕴",
+    "city_pinyin": "fuyun",
+    "city_synonym": "fuyun,fy",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 119,
+    "city_name": "玉溪",
+    "city_pinyin": "yuxi",
+    "city_synonym": "yuxi,yx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 120,
+    "city_name": "酒泉",
+    "city_pinyin": "jiuquan",
+    "city_synonym": "jiuquan,jq",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 121,
+    "city_name": "莱芜",
+    "city_pinyin": "laiwu",
+    "city_synonym": "laiwu,lw",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 122,
+    "city_name": "潍坊",
+    "city_pinyin": "weifang",
+    "city_synonym": "weifang,wf",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 123,
+    "city_name": "平凉",
+    "city_pinyin": "pingliang",
+    "city_synonym": "pingliang,pl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 124,
+    "city_name": "抚州",
+    "city_pinyin": "fuzhou",
+    "city_synonym": "fuzhou,fz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 125,
+    "city_name": "黄山",
+    "city_pinyin": "huangshan",
+    "city_synonym": "huangshan,hs",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 127,
+    "city_name": "林芝",
+    "city_pinyin": "linzhi",
+    "city_synonym": "linzhi,lz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 128,
+    "city_name": "盐津",
+    "city_pinyin": "yanjin",
+    "city_synonym": "yanjin,yj",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 129,
+    "city_name": "云浮",
+    "city_pinyin": "yunfu",
+    "city_synonym": "yunfu,yf",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 130,
+    "city_name": "临汾",
+    "city_pinyin": "linfen",
+    "city_synonym": "linfen,lf",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 131,
+    "city_name": "衡阳",
+    "city_pinyin": "hengyang",
+    "city_synonym": "hengyang,hy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 132,
+    "city_name": "昌吉",
+    "city_pinyin": "changji",
+    "city_synonym": "changji,cj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 133,
+    "city_name": "大兴安林",
+    "city_pinyin": "daxinganling",
+    "city_synonym": "daxinganling,xlal",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 134,
+    "city_name": "瓦房店",
+    "city_pinyin": "wafangdian",
+    "city_synonym": "wafangdian,wfd",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 135,
+    "city_name": "蒙自",
+    "city_pinyin": "mengzi",
+    "city_synonym": "mengzi,mz",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 136,
+    "city_name": "毕节",
+    "city_pinyin": "bijie",
+    "city_synonym": "bijie,bj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 137,
+    "city_name": "巨野",
+    "city_pinyin": "juye",
+    "city_synonym": "juye,jy",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 138,
+    "city_name": "塔石嘴",
+    "city_pinyin": "tashizui",
+    "city_synonym": "tashizui,tsz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 139,
+    "city_name": "潼南",
+    "city_pinyin": "tongnan",
+    "city_synonym": "tongnan,tn",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 140,
+    "city_name": "塔城",
+    "city_pinyin": "tacheng",
+    "city_synonym": "tacheng,tc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 141,
+    "city_name": "扶余",
+    "city_pinyin": "fuyu",
+    "city_synonym": "fuyu,fy",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 142,
+    "city_name": "奉贤",
+    "city_pinyin": "fengxian",
+    "city_synonym": "fengxian,fx",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 143,
+    "city_name": "铜陵",
+    "city_pinyin": "tongling",
+    "city_synonym": "tongling,tl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 144,
+    "city_name": "台安",
+    "city_pinyin": "taian",
+    "city_synonym": "taian,ta",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 145,
+    "city_name": "宿迁",
+    "city_pinyin": "suqian",
+    "city_synonym": "suqian,sq",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 146,
+    "city_name": "绍兴",
+    "city_pinyin": "shaoxing",
+    "city_synonym": "shaoxing,sx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 147,
+    "city_name": "义乌",
+    "city_pinyin": "yiwu",
+    "city_synonym": "yiwu,yw",
+    "city_level": 10000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 148,
+    "city_name": "成都",
+    "city_pinyin": "chengdu",
+    "city_synonym": "chengdu,cd",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 149,
+    "city_name": "阳江",
+    "city_pinyin": "yangjiang",
+    "city_synonym": "yangjiang,yj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 150,
+    "city_name": "石河子",
+    "city_pinyin": "shihezi",
+    "city_synonym": "shihezi,shz",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 151,
+    "city_name": "顺德",
+    "city_pinyin": "shunde",
+    "city_synonym": "shunde,sd",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 152,
+    "city_name": "那拉提",
+    "city_pinyin": "nalati",
+    "city_synonym": "nalati,nlt",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 153,
+    "city_name": "上海",
+    "city_pinyin": "shanghai",
+    "city_synonym": "shanghai,sh",
+    "city_level": 40000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 154,
+    "city_name": "双城",
+    "city_pinyin": "shuangcheng",
+    "city_synonym": "shuangcheng,sc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 155,
+    "city_name": "深圳",
+    "city_pinyin": "shenzhen",
+    "city_synonym": "shenzhen,sz",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 156,
+    "city_name": "淮安",
+    "city_pinyin": "huaian",
+    "city_synonym": "huaian,ha",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 157,
+    "city_name": "南头",
+    "city_pinyin": "nantou",
+    "city_synonym": "nantou,nt",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 158,
+    "city_name": "咸宁",
+    "city_pinyin": "xianning",
+    "city_synonym": "xianning,xn",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 159,
+    "city_name": "白城",
+    "city_pinyin": "baicheng",
+    "city_synonym": "baicheng,bc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 160,
+    "city_name": "那曲",
+    "city_pinyin": "naqu",
+    "city_synonym": "naqu,nq",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 161,
+    "city_name": "眉山",
+    "city_pinyin": "meishan",
+    "city_synonym": "meishan,ms",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 162,
+    "city_name": "马鞍山",
+    "city_pinyin": "maanshan",
+    "city_synonym": "maanshan,mas",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 163,
+    "city_name": "陵水",
+    "city_pinyin": "lingshui",
+    "city_synonym": "lingshui,ls",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 164,
+    "city_name": "海东",
+    "city_pinyin": "haidong",
+    "city_synonym": "haidong,hd",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 165,
+    "city_name": "达州",
+    "city_pinyin": "dazhou",
+    "city_synonym": "dazhou,dz,daxiang,dx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 166,
+    "city_name": "景德镇",
+    "city_pinyin": "jingdezhen",
+    "city_synonym": "jingdezhen,jdz",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 167,
+    "city_name": "兴义",
+    "city_pinyin": "xingyi",
+    "city_synonym": "xingyi,xy",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 168,
+    "city_name": "龙岩",
+    "city_pinyin": "longyan",
+    "city_synonym": "longyan,ly",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 169,
+    "city_name": "聊城",
+    "city_pinyin": "liaocheng",
+    "city_synonym": "liaocheng,lc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 170,
+    "city_name": "鹤壁",
+    "city_pinyin": "hebi",
+    "city_synonym": "hebi,hb",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 171,
+    "city_name": "包头",
+    "city_pinyin": "baotou",
+    "city_synonym": "baotou,bt",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 172,
+    "city_name": "昆山",
+    "city_pinyin": "kunshan",
+    "city_synonym": "kunshan,ks",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 173,
+    "city_name": "金华",
+    "city_pinyin": "jinhua",
+    "city_synonym": "jinhua,jh",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 174,
+    "city_name": "百色",
+    "city_pinyin": "baise",
+    "city_synonym": "baise,bs",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 175,
+    "city_name": "内江",
+    "city_pinyin": "neijiang",
+    "city_synonym": "neijiang,nj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 176,
+    "city_name": "广州",
+    "city_pinyin": "guangzhou",
+    "city_synonym": "guangzhou,gz",
+    "city_level": 40000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 177,
+    "city_name": "晋中",
+    "city_pinyin": "jinzhong",
+    "city_synonym": "jinzhong,jz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 178,
+    "city_name": "临沂",
+    "city_pinyin": "linyi",
+    "city_synonym": "linyi,ly",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 179,
+    "city_name": "锡林郭勒盟",
+    "city_pinyin": "xilinguole",
+    "city_synonym": "xilinguolemeng,xlgl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 180,
+    "city_name": "白银",
+    "city_pinyin": "baiyin",
+    "city_synonym": "baiyin,by",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 181,
+    "city_name": "蚌埠",
+    "city_pinyin": "benbu",
+    "city_synonym": "benbu,bb",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 182,
+    "city_name": "大庆",
+    "city_pinyin": "daqing",
+    "city_synonym": "daqing,dq",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 183,
+    "city_name": "广安",
+    "city_pinyin": "guangan",
+    "city_synonym": "guangan,ga",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 184,
+    "city_name": "沙市",
+    "city_pinyin": "shashi",
+    "city_synonym": "shashi,ss",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 185,
+    "city_name": "迪庆香格里拉",
+    "city_pinyin": "diqingxianggelila",
+    "city_synonym": "diqingxianggelila,dqxgll",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 186,
+    "city_name": "丽水",
+    "city_pinyin": "lishui",
+    "city_synonym": "lishui,ls",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 187,
+    "city_name": "同心",
+    "city_pinyin": "tongxin",
+    "city_synonym": "tongxin,tx",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 188,
+    "city_name": "漳州",
+    "city_pinyin": "zhangzhou",
+    "city_synonym": "zhangzhou,zz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 189,
+    "city_name": "恩施",
+    "city_pinyin": "enshi",
+    "city_synonym": "enshi,es",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 190,
+    "city_name": "岳阳",
+    "city_pinyin": "yueyang",
+    "city_synonym": "yueyang,yy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 191,
+    "city_name": "三明",
+    "city_pinyin": "sanming",
+    "city_synonym": "sanming,sm",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 192,
+    "city_name": "连城",
+    "city_pinyin": "liancheng",
+    "city_synonym": "liangcheng,lc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 193,
+    "city_name": "营口",
+    "city_pinyin": "yingkou",
+    "city_synonym": "yingkou,yk",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 194,
+    "city_name": "交城",
+    "city_pinyin": "jiaocheng",
+    "city_synonym": "jiaocheng,jc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 195,
+    "city_name": "荆门",
+    "city_pinyin": "jingmen",
+    "city_synonym": "jingmen,jm",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 196,
+    "city_name": "公主岭",
+    "city_pinyin": "gongzhuling",
+    "city_synonym": "gongzhuling,gzl",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 197,
+    "city_name": "佛山",
+    "city_pinyin": "foshan",
+    "city_synonym": "foshan,fs",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 198,
+    "city_name": "朝阳",
+    "city_pinyin": "chaoyang",
+    "city_synonym": "chaoyang,cy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 199,
+    "city_name": "绵阳",
+    "city_pinyin": "mianyang",
+    "city_synonym": "mianyang,my",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 200,
+    "city_name": "金川",
+    "city_pinyin": "jinchuan",
+    "city_synonym": "jinchuan,jc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 201,
+    "city_name": "吴忠",
+    "city_pinyin": "wuzhong",
+    "city_synonym": "wuzhong,wz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 202,
+    "city_name": "西安",
+    "city_pinyin": "xian",
+    "city_synonym": "xian,xa",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 203,
+    "city_name": "巴音郭楞",
+    "city_pinyin": "bayinguoleng",
+    "city_synonym": "bayinguoleng,bygl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 204,
+    "city_name": "台州",
+    "city_pinyin": "taizhou",
+    "city_synonym": "taizhou,tz",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 205,
+    "city_name": "天门",
+    "city_pinyin": "tianmen",
+    "city_synonym": "tianmen,tm",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 206,
+    "city_name": "九江",
+    "city_pinyin": "jiujiang",
+    "city_synonym": "jiujiang,jj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 207,
+    "city_name": "衢州",
+    "city_pinyin": "quzhou",
+    "city_synonym": "quzhou,qz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 208,
+    "city_name": "湖州",
+    "city_pinyin": "huzhou",
+    "city_synonym": "huzhou,hz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 209,
+    "city_name": "安亭上海",
+    "city_pinyin": "anting",
+    "city_synonym": "anting,at",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 210,
+    "city_name": "河源",
+    "city_pinyin": "heyuan",
+    "city_synonym": "heyuan,hp",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 211,
+    "city_name": "阿拉善",
+    "city_pinyin": "alashan",
+    "city_synonym": "alashan,als",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 212,
+    "city_name": "盘锦",
+    "city_pinyin": "panjin",
+    "city_synonym": "panjin,pj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 213,
+    "city_name": "芜湖",
+    "city_pinyin": "wuhu",
+    "city_synonym": "wuhu,wh",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 214,
+    "city_name": "丹东",
+    "city_pinyin": "dandong",
+    "city_synonym": "dandong,dd",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 216,
+    "city_name": "黄冈",
+    "city_pinyin": "huanggang",
+    "city_synonym": "huanggang,hg",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 217,
+    "city_name": "开原",
+    "city_pinyin": "kaiyuan",
+    "city_synonym": "kaiyuan,ky",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 218,
+    "city_name": "伊犁",
+    "city_pinyin": "yili",
+    "city_synonym": "yili,yl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 219,
+    "city_name": "六安",
+    "city_pinyin": "liuan",
+    "city_synonym": "liuan,la",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 220,
+    "city_name": "毫州",
+    "city_pinyin": "bozhou",
+    "city_synonym": "bozhou,bz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 221,
+    "city_name": "高老",
+    "city_pinyin": "gaolao",
+    "city_synonym": "gaolao,gl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 222,
+    "city_name": "梧州",
+    "city_pinyin": "wuzhou",
+    "city_synonym": "wuzhou,wz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 223,
+    "city_name": "贵港",
+    "city_pinyin": "guigang",
+    "city_synonym": "guigang,gg",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 224,
+    "city_name": "文昌",
+    "city_pinyin": "wenchang",
+    "city_synonym": "wenchang,wc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 225,
+    "city_name": "北海",
+    "city_pinyin": "beihai",
+    "city_synonym": "beihai,bh",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 226,
+    "city_name": "中山",
+    "city_pinyin": "zhongshan",
+    "city_synonym": "zhongshan,ds",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 227,
+    "city_name": "淮南",
+    "city_pinyin": "huainan",
+    "city_synonym": "huainan,hn",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 228,
+    "city_name": "钦州",
+    "city_pinyin": "qinzhou",
+    "city_synonym": "qinzhou,qz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 230,
+    "city_name": "合肥",
+    "city_pinyin": "hefei",
+    "city_synonym": "hefei,hf",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 231,
+    "city_name": "荔波",
+    "city_pinyin": "libo",
+    "city_synonym": "libo,lb",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 232,
+    "city_name": "德惠",
+    "city_pinyin": "dehui",
+    "city_synonym": "dehui,dh",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 233,
+    "city_name": "东方",
+    "city_pinyin": "dongfang",
+    "city_synonym": "dongfang,df",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 234,
+    "city_name": "自贡",
+    "city_pinyin": "zigong",
+    "city_synonym": "zigong,zg",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 235,
+    "city_name": "烟台",
+    "city_pinyin": "yantai",
+    "city_synonym": "yantai,yt",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 236,
+    "city_name": "潮州",
+    "city_pinyin": "chaozhou",
+    "city_synonym": "chaozhou,cz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 237,
+    "city_name": "吉林",
+    "city_pinyin": "jilin",
+    "city_synonym": "jilin,jl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 238,
+    "city_name": "梅州",
+    "city_pinyin": "meizhou",
+    "city_synonym": "meizhou,mz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 239,
+    "city_name": "霸州",
+    "city_pinyin": "bazhou",
+    "city_synonym": "bazhou,bz",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 240,
+    "city_name": "巴中",
+    "city_pinyin": "bazhong",
+    "city_synonym": "bazhong,bz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 241,
+    "city_name": "白银市",
+    "city_pinyin": "baiyinshi",
+    "city_synonym": "baiyinshi,bys",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 242,
+    "city_name": "广汉",
+    "city_pinyin": "guanghan",
+    "city_synonym": "guanghan,gh",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 243,
+    "city_name": "鲅鱼圈",
+    "city_pinyin": "bayuquan",
+    "city_synonym": "bayuquan,byq",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 244,
+    "city_name": "天津",
+    "city_pinyin": "tianjin",
+    "city_synonym": "tianjin,tj",
+    "city_level": 30000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 245,
+    "city_name": "滨州",
+    "city_pinyin": "binzhou",
+    "city_synonym": "binzhou,bz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 246,
+    "city_name": "泰州",
+    "city_pinyin": "taizhou",
+    "city_synonym": "taizhou,tz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 247,
+    "city_name": "海宁",
+    "city_pinyin": "haining",
+    "city_synonym": "haining,hn",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 248,
+    "city_name": "白沙",
+    "city_pinyin": "baisha",
+    "city_synonym": "baisha,bs",
+    "city_level": 10000,
+    "city_priority": 4,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 249,
+    "city_name": "昭通",
+    "city_pinyin": "zhaotong",
+    "city_synonym": "zhaotong,zt",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 250,
+    "city_name": "巴林",
+    "city_pinyin": "balin",
+    "city_synonym": "balin,bl",
+    "city_level": 10000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 251,
+    "city_name": "宜春",
+    "city_pinyin": "yichun",
+    "city_synonym": "yichun,yc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 252,
+    "city_name": "唐山",
+    "city_pinyin": "tangshan",
+    "city_synonym": "tangshan,ts",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 253,
+    "city_name": "余姚",
+    "city_pinyin": "yuyao",
+    "city_synonym": "yuyao,yy",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 254,
+    "city_name": "河池",
+    "city_pinyin": "hechi",
+    "city_synonym": "hechi,hc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 255,
+    "city_name": "廊坊",
+    "city_pinyin": "langfang",
+    "city_synonym": "langfang,lf",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 256,
+    "city_name": "忻州",
+    "city_pinyin": "xinzhou",
+    "city_synonym": "xinzhou,xz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 257,
+    "city_name": "黄石",
+    "city_pinyin": "huangshi",
+    "city_synonym": "huangshi,hs",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 258,
+    "city_name": "德州",
+    "city_pinyin": "dezhou",
+    "city_synonym": "dezhou,dz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 259,
+    "city_name": "琼海",
+    "city_pinyin": "qionghai",
+    "city_synonym": "qionghai,qh",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 260,
+    "city_name": "黔西",
+    "city_pinyin": "qianxi",
+    "city_synonym": "qianxi,qx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 261,
+    "city_name": "大理市",
+    "city_pinyin": "dalishi",
+    "city_synonym": "dalishi,dls",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 262,
+    "city_name": "辽阳",
+    "city_pinyin": "liaoyang",
+    "city_synonym": "liaoyang,ld",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 263,
+    "city_name": "阜阳",
+    "city_pinyin": "fuyang",
+    "city_synonym": "fuyang,fy",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 264,
+    "city_name": "肇庆",
+    "city_pinyin": "zhaoqing",
+    "city_synonym": "zhaoqing,zq",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 265,
+    "city_name": "青岛",
+    "city_pinyin": "qingdao",
+    "city_synonym": "qingdao,qd",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 266,
+    "city_name": "思茅",
+    "city_pinyin": "simao",
+    "city_synonym": "simao,sm",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 267,
+    "city_name": "周口",
+    "city_pinyin": "zhoukou",
+    "city_synonym": "zhoukou,zk",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 268,
+    "city_name": "抚顺",
+    "city_pinyin": "fushun",
+    "city_synonym": "fushun,fs",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 269,
+    "city_name": "博乐",
+    "city_pinyin": "bole",
+    "city_synonym": "bole,bl",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 270,
+    "city_name": "吉安",
+    "city_pinyin": "jian",
+    "city_synonym": "jian,ja",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 271,
+    "city_name": "阳泉",
+    "city_pinyin": "yangquan",
+    "city_synonym": "yangquan,yq",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 272,
+    "city_name": "乐山",
+    "city_pinyin": "leshan",
+    "city_synonym": "leshan,ls",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 273,
+    "city_name": "鄯善",
+    "city_pinyin": "shanshan",
+    "city_synonym": "shanshan,ss",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 274,
+    "city_name": "襄阳",
+    "city_pinyin": "xiangyang",
+    "city_synonym": "xiangfan,xf,xiangyang,xy,襄樊",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 276,
+    "city_name": "石嘴山",
+    "city_pinyin": "shizuishan",
+    "city_synonym": "shizuishan,szs",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 277,
+    "city_name": "新乡",
+    "city_pinyin": "xinxiang",
+    "city_synonym": "xinxiang,xx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 278,
+    "city_name": "重庆",
+    "city_pinyin": "chongqing",
+    "city_synonym": "chongqing,cq",
+    "city_level": 30000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 279,
+    "city_name": "凉山",
+    "city_pinyin": "liangshan",
+    "city_synonym": "liangshan,ls",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 280,
+    "city_name": "许昌",
+    "city_pinyin": "xuchang",
+    "city_synonym": "xuchang,xc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 281,
+    "city_name": "齐齐哈尔",
+    "city_pinyin": "qiqihaer",
+    "city_synonym": "qiqihaer,qqhe",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 282,
+    "city_name": "牡丹江",
+    "city_pinyin": "mudanjiang",
+    "city_synonym": "mudanjiang,mdj",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 283,
+    "city_name": "兰州",
+    "city_pinyin": "lanzhou",
+    "city_synonym": "lanzhou,lz",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 284,
+    "city_name": "黔西南",
+    "city_pinyin": "qianxinan",
+    "city_synonym": "qianxinan,qxn",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 285,
+    "city_name": "泰安",
+    "city_pinyin": "taian",
+    "city_synonym": "taian,ta",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 286,
+    "city_name": "朔州",
+    "city_pinyin": "shuozhou",
+    "city_synonym": "shuozhou,sz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 287,
+    "city_name": "伊春",
+    "city_pinyin": "yichun",
+    "city_synonym": "yichun,yc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 288,
+    "city_name": "锡林浩特",
+    "city_pinyin": "xilinhaote",
+    "city_synonym": "xilinhaote,xlht",
+    "city_level": 10000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 289,
+    "city_name": "宿州",
+    "city_pinyin": "suzhou",
+    "city_synonym": "suzhou,sz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 290,
+    "city_name": "延安",
+    "city_pinyin": "yanan",
+    "city_synonym": "yanan,ya",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 291,
+    "city_name": "菏泽",
+    "city_pinyin": "heze",
+    "city_synonym": "heze,hz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 292,
+    "city_name": "安康",
+    "city_pinyin": "ankang",
+    "city_synonym": "ankang,ak",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 293,
+    "city_name": "呼伦贝尔",
+    "city_pinyin": "hulunbeier",
+    "city_synonym": "hulunbeier,hlbe",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 294,
+    "city_name": "十堰",
+    "city_pinyin": "shiyan",
+    "city_synonym": "shiyan,sy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 295,
+    "city_name": "赤峰",
+    "city_pinyin": "chifeng",
+    "city_synonym": "chifeng,cf",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 296,
+    "city_name": "敦煌",
+    "city_pinyin": "dunhuang",
+    "city_synonym": "dunhuang,dh",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 297,
+    "city_name": "鹰潭",
+    "city_pinyin": "yingtan",
+    "city_synonym": "yingtan,yt",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 298,
+    "city_name": "邦达",
+    "city_pinyin": "bangda",
+    "city_synonym": "bangda,bd",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 300,
+    "city_name": "上饶",
+    "city_pinyin": "shangrao",
+    "city_synonym": "shangrao,sr",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 301,
+    "city_name": "伊宁",
+    "city_pinyin": "yining",
+    "city_synonym": "yining,yn",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 302,
+    "city_name": "张家界",
+    "city_pinyin": "zhangjiaije",
+    "city_synonym": "zhangjiaije,zjj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 303,
+    "city_name": "南昌",
+    "city_pinyin": "nanchang",
+    "city_synonym": "nanchang,nc",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 304,
+    "city_name": "商丘",
+    "city_pinyin": "shangqiu",
+    "city_synonym": "shangqiu,sq",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 305,
+    "city_name": "邯郸市",
+    "city_pinyin": "handanshi",
+    "city_synonym": "handanshi,hds",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 306,
+    "city_name": "运城",
+    "city_pinyin": "yuncheng",
+    "city_synonym": "yuncheng,yc",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 307,
+    "city_name": "商洛",
+    "city_pinyin": "shangluo",
+    "city_synonym": "shangluo,sn",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 308,
+    "city_name": "建水",
+    "city_pinyin": "jianshui",
+    "city_synonym": "jianshui,js",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 309,
+    "city_name": "咸阳",
+    "city_pinyin": "xianyang",
+    "city_synonym": "xianyang,xy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 310,
+    "city_name": "格尔木",
+    "city_pinyin": "geermu",
+    "city_synonym": "geermu,gem",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 311,
+    "city_name": "泉州",
+    "city_pinyin": "quanzhou",
+    "city_synonym": "quanzhou,qz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 312,
+    "city_name": "株洲",
+    "city_pinyin": "zhuzhou",
+    "city_synonym": "zhuzhou,zz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 313,
+    "city_name": "平顶山",
+    "city_pinyin": "pingdingshan",
+    "city_synonym": "pingdingshan,pds",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 314,
+    "city_name": "南平",
+    "city_pinyin": "nanping",
+    "city_synonym": "nanping,np",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 315,
+    "city_name": "通化",
+    "city_pinyin": "tonghua",
+    "city_synonym": "tonghua,th",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 316,
+    "city_name": "茂名",
+    "city_pinyin": "maoming",
+    "city_synonym": "maoming,mm",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 317,
+    "city_name": "济南",
+    "city_pinyin": "jinan",
+    "city_synonym": "jinan,jn",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 318,
+    "city_name": "汕头",
+    "city_pinyin": "shantou",
+    "city_synonym": "shantou,st",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 319,
+    "city_name": "海口",
+    "city_pinyin": "haikou",
+    "city_synonym": "haikou,hk",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 320,
+    "city_name": "桦南",
+    "city_pinyin": "huanan",
+    "city_synonym": "huanan,hn",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 321,
+    "city_name": "锡林郭勒",
+    "city_pinyin": "xilinguole",
+    "city_synonym": "xilinguole,xlgl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 322,
+    "city_name": "滁州",
+    "city_pinyin": "chuzhou",
+    "city_synonym": "chuzhou,cz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 323,
+    "city_name": "西昌",
+    "city_pinyin": "xichang",
+    "city_synonym": "xichang,xc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 324,
+    "city_name": "信阳",
+    "city_pinyin": "xinyang",
+    "city_synonym": "xinyang,xy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 325,
+    "city_name": "长白山",
+    "city_pinyin": "changbaishan",
+    "city_synonym": "changbaishan,cbs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 326,
+    "city_name": "海城",
+    "city_pinyin": "haicheng",
+    "city_synonym": "haicheng,hc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 327,
+    "city_name": "定西",
+    "city_pinyin": "dingxi",
+    "city_synonym": "dingxi,lx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 328,
+    "city_name": "吕梁",
+    "city_pinyin": "lvliang",
+    "city_synonym": "lvliang,ll",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 329,
+    "city_name": "漯河",
+    "city_pinyin": "leihe",
+    "city_synonym": "leihe,lh",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 330,
+    "city_name": "巴彦淖尔",
+    "city_pinyin": "bayannaoer",
+    "city_synonym": "bayannaoer,byne",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 331,
+    "city_name": "阿拉善盟",
+    "city_pinyin": "alashanmeng",
+    "city_synonym": "alashanmeng,als",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 332,
+    "city_name": "湛江",
+    "city_pinyin": "zhanjiang",
+    "city_synonym": "zhanjiang,zj",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 333,
+    "city_name": "长冶",
+    "city_pinyin": "changye",
+    "city_synonym": "changye,cy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 334,
+    "city_name": "沧州",
+    "city_pinyin": "cangzhou",
+    "city_synonym": "cangzhou,cz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 335,
+    "city_name": "利川",
+    "city_pinyin": "lichuan",
+    "city_synonym": "lichuan,lc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 336,
+    "city_name": "海北",
+    "city_pinyin": "haibei",
+    "city_synonym": "haibei,hb",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 337,
+    "city_name": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "city_synonym": "haerbin,heb",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 338,
+    "city_name": "赣州",
+    "city_pinyin": "ganzhou",
+    "city_synonym": "ganzhou,gz",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 339,
+    "city_name": "雅安",
+    "city_pinyin": "yaan",
+    "city_synonym": "yaan,hy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 340,
+    "city_name": "海西",
+    "city_pinyin": "haixi",
+    "city_synonym": "haixi,hx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 341,
+    "city_name": "石家庄",
+    "city_pinyin": "shijiazhuang",
+    "city_synonym": "shijiazhuang,sjz",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 342,
+    "city_name": "武威",
+    "city_pinyin": "wuwei",
+    "city_synonym": "wuwei,ww",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 343,
+    "city_name": "吐鲁番",
+    "city_pinyin": "tulufan",
+    "city_synonym": "tulufan,tlf",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 344,
+    "city_name": "三亚",
+    "city_pinyin": "sanya",
+    "city_synonym": "sanya,sy",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 345,
+    "city_name": "巴楚",
+    "city_pinyin": "bachu",
+    "city_synonym": "bachu,bc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 346,
+    "city_name": "淮北",
+    "city_pinyin": "huaibei",
+    "city_synonym": "huaibei,hb",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 347,
+    "city_name": "黔东南",
+    "city_pinyin": "qiandongnan",
+    "city_synonym": "qiandongnan,qdn",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 348,
+    "city_name": "句容",
+    "city_pinyin": "jurong",
+    "city_synonym": "jurong,jr",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 349,
+    "city_name": "黔南",
+    "city_pinyin": "qiannan",
+    "city_synonym": "qiannan,qn",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 350,
+    "city_name": "湘西",
+    "city_pinyin": "xiangxi",
+    "city_synonym": "xiangxi,xx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 351,
+    "city_name": "中卫",
+    "city_pinyin": "zhongwei",
+    "city_synonym": "zhongwei,zw",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 352,
+    "city_name": "库车",
+    "city_pinyin": "kuche",
+    "city_synonym": "kuche,kc",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 353,
+    "city_name": "泸州",
+    "city_pinyin": "luzhou",
+    "city_synonym": "luzhou,lz",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 354,
+    "city_name": "阿勒泰",
+    "city_pinyin": "aletai",
+    "city_synonym": "aletai,alt",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 355,
+    "city_name": "大同",
+    "city_pinyin": "datong",
+    "city_synonym": "datong,dt",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 356,
+    "city_name": "南通",
+    "city_pinyin": "nantong",
+    "city_synonym": "nantong,nt",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 357,
+    "city_name": "太原",
+    "city_pinyin": "taiyuan",
+    "city_synonym": "taiyuan,ty",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 358,
+    "city_name": "固原",
+    "city_pinyin": "guyuan",
+    "city_synonym": "guyuan,gy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 359,
+    "city_name": "康定",
+    "city_pinyin": "kangding",
+    "city_synonym": "kangding,kd",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 360,
+    "city_name": "银川",
+    "city_pinyin": "yinchuan",
+    "city_synonym": "yinchuan,yc",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 361,
+    "city_name": "南充",
+    "city_pinyin": "nanchong",
+    "city_synonym": "nanchong,nc",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 362,
+    "city_name": "热水",
+    "city_pinyin": "reshui",
+    "city_synonym": "reshui,rs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 363,
+    "city_name": "郑州",
+    "city_pinyin": "zhengzhou",
+    "city_synonym": "zhengzhou,zz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 364,
+    "city_name": "舟山",
+    "city_pinyin": "zhoushan",
+    "city_synonym": "zhoushan,zs",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 365,
+    "city_name": "惠州",
+    "city_pinyin": "huizhou",
+    "city_synonym": "huizhou,hz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 366,
+    "city_name": "文山",
+    "city_pinyin": "wenshan",
+    "city_synonym": "wenshan,ws",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 367,
+    "city_name": "承德",
+    "city_pinyin": "chengde",
+    "city_synonym": "chengde,cd",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 368,
+    "city_name": "乌兰察布",
+    "city_pinyin": "wulanchabu",
+    "city_synonym": "wulanchabu,wlcb",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 369,
+    "city_name": "江门",
+    "city_pinyin": "jiangmen",
+    "city_synonym": "jiangmen,jm",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 370,
+    "city_name": "上虞",
+    "city_pinyin": "shangyu",
+    "city_synonym": "shangyu,sy",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 371,
+    "city_name": "南京",
+    "city_pinyin": "nanjing",
+    "city_synonym": "nanjing,nj",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 372,
+    "city_name": "博尔塔拉",
+    "city_pinyin": "boertala",
+    "city_synonym": "boertala,betl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 373,
+    "city_name": "汉中",
+    "city_pinyin": "hanzhong",
+    "city_synonym": "hanzhong,hz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 374,
+    "city_name": "邢台",
+    "city_pinyin": "xingtai",
+    "city_synonym": "xingtai,xt",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 375,
+    "city_name": "东营",
+    "city_pinyin": "dongying",
+    "city_synonym": "dongying,dy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 376,
+    "city_name": "广元",
+    "city_pinyin": "guangyuan",
+    "city_synonym": "guangyuan,gy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 377,
+    "city_name": "宜宾",
+    "city_pinyin": "yibin",
+    "city_synonym": "yibin,yb",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 378,
+    "city_name": "北京",
+    "city_pinyin": "beijing",
+    "city_synonym": "beijing,bj",
+    "city_level": 40000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 379,
+    "city_name": "鸡西",
+    "city_pinyin": "jixi",
+    "city_synonym": "jixi,jx",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 380,
+    "city_name": "和田",
+    "city_pinyin": "hetian",
+    "city_synonym": "hetian,ht",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 381,
+    "city_name": "济宁",
+    "city_pinyin": "jining",
+    "city_synonym": "jining,jn",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 382,
+    "city_name": "驻马店",
+    "city_pinyin": "zhumadian",
+    "city_synonym": "zhumadian,zmd",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 383,
+    "city_name": "东莞",
+    "city_pinyin": "dongguan",
+    "city_synonym": "dongguan,dg",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 384,
+    "city_name": "且末",
+    "city_pinyin": "qiemo",
+    "city_synonym": "qiemo,qm",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 385,
+    "city_name": "黎平",
+    "city_pinyin": "liping",
+    "city_synonym": "liping,lp",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 386,
+    "city_name": "苏州",
+    "city_pinyin": "suzhou",
+    "city_synonym": "suzhou,sz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 387,
+    "city_name": "西双版纳",
+    "city_pinyin": "xishuangbanna",
+    "city_synonym": "xishuangbanna,xsbn",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 388,
+    "city_name": "双鸭山",
+    "city_pinyin": "shuangyashan",
+    "city_synonym": "shuangyashan,sys",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 389,
+    "city_name": "威海",
+    "city_pinyin": "weihai",
+    "city_synonym": "weihai,wh",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 390,
+    "city_name": "黑河",
+    "city_pinyin": "heihe",
+    "city_synonym": "heihe,hh",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 391,
+    "city_name": "六盘水",
+    "city_pinyin": "liupanshui",
+    "city_synonym": "liupanshui,lps",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 392,
+    "city_name": "盐城",
+    "city_pinyin": "yancheng",
+    "city_synonym": "yancheng,yc",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 393,
+    "city_name": "西宁",
+    "city_pinyin": "xining",
+    "city_synonym": "xining,xn",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 394,
+    "city_name": "宜昌",
+    "city_pinyin": "yichang",
+    "city_synonym": "yichang,yc",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 395,
+    "city_name": "宁波",
+    "city_pinyin": "ningbo",
+    "city_synonym": "ningbo,nb",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 396,
+    "city_name": "南阳",
+    "city_pinyin": "nanyang",
+    "city_synonym": "nanyang,ny",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 397,
+    "city_name": "延边",
+    "city_pinyin": "yanbian",
+    "city_synonym": "yanbian,yb",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 398,
+    "city_name": "邵阳",
+    "city_pinyin": "shaoyang",
+    "city_synonym": "shaoyang,sy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 399,
+    "city_name": "鞍山",
+    "city_pinyin": "anshan",
+    "city_synonym": "anshan,as",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 400,
+    "city_name": "陇南",
+    "city_pinyin": "longnan",
+    "city_synonym": "longnan,ln",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 401,
+    "city_name": "武夷山",
+    "city_pinyin": "wuyishan",
+    "city_synonym": "wuyishan,wys",
+    "city_level": 10000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 402,
+    "city_name": "温州",
+    "city_pinyin": "wenzhou",
+    "city_synonym": "wenzhou,wz",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 403,
+    "city_name": "攀枝花",
+    "city_pinyin": "panzhihua",
+    "city_synonym": "panzhihua,pzh",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 404,
+    "city_name": "桂林",
+    "city_pinyin": "guilin",
+    "city_synonym": "guilin,gl",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 405,
+    "city_name": "庆阳",
+    "city_pinyin": "qingyang",
+    "city_synonym": "qingyang,qy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 406,
+    "city_name": "长春",
+    "city_pinyin": "changchun",
+    "city_synonym": "changchun,cc",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 2
+  },
+  {
+    "city_id": 407,
+    "city_name": "新余",
+    "city_pinyin": "xinyu",
+    "city_synonym": "xinyu,xy",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 409,
+    "city_name": "万县",
+    "city_pinyin": "wanxian",
+    "city_synonym": "wanxian,wx",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 410,
+    "city_name": "渭南",
+    "city_pinyin": "weinan",
+    "city_synonym": "weinan,wn",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 411,
+    "city_name": "兴安",
+    "city_pinyin": "xingan",
+    "city_synonym": "xingan,xa",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 412,
+    "city_name": "拉萨",
+    "city_pinyin": "lasa",
+    "city_synonym": "lasa,ls",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 413,
+    "city_name": "海拉尔",
+    "city_pinyin": "hailaer",
+    "city_synonym": "hailaer,hle",
+    "city_level": 10000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 414,
+    "city_name": "白河",
+    "city_pinyin": "baihe",
+    "city_synonym": "baihe,bh",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 415,
+    "city_name": "宝鸡",
+    "city_pinyin": "baoji",
+    "city_synonym": "baoji,bj",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 416,
+    "city_name": "亳州",
+    "city_pinyin": "bozhou",
+    "city_synonym": "bozhou,bz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 417,
+    "city_name": "保山",
+    "city_pinyin": "baoshan",
+    "city_synonym": "baoshan,bs",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 418,
+    "city_name": "铁岭",
+    "city_pinyin": "tieling",
+    "city_synonym": "tieling,tl",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 419,
+    "city_name": "常州",
+    "city_pinyin": "changzhou",
+    "city_synonym": "changzhou,cz",
+    "city_level": 20000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 420,
+    "city_name": "池州市",
+    "city_pinyin": "chizhoushi",
+    "city_synonym": "chizhoushi,czs",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 421,
+    "city_name": "郴州",
+    "city_pinyin": "chenzhou",
+    "city_synonym": "chenzhou,cz",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 422,
+    "city_name": "宣城",
+    "city_pinyin": "xuancheng",
+    "city_synonym": "xuancheng,xc",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 423,
+    "city_name": "长沙",
+    "city_pinyin": "changsha",
+    "city_synonym": "changsha,cs",
+    "city_level": 20000,
+    "city_priority": 1,
+    "city_base_hot": 3
+  },
+  {
+    "city_id": 424,
+    "city_name": "延吉",
+    "city_pinyin": "yanji",
+    "city_synonym": "yanji,yj",
+    "city_level": 10000,
+    "city_priority": 2,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 425,
+    "city_name": "鄂尔多斯",
+    "city_pinyin": "eerduosi",
+    "city_synonym": "eerduosi,eeds",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 426,
+    "city_name": "长海",
+    "city_pinyin": "changhai",
+    "city_synonym": "changhai,ch",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 427,
+    "city_name": "锦州",
+    "city_pinyin": "jinzhou",
+    "city_synonym": "jinzhou,jz",
+    "city_level": 20000,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 428,
+    "city_name": "七台河",
+    "city_pinyin": "qitaihe",
+    "city_synonym": "qitaihe,qth",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 429,
+    "city_name": "卓资",
+    "city_pinyin": "zhuozi",
+    "city_synonym": "zhuozi,zz",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 430,
+    "city_name": "鹤岗",
+    "city_pinyin": "hegang",
+    "city_synonym": "hegang,hg",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 431,
+    "city_name": "遂宁",
+    "city_pinyin": "suining",
+    "city_synonym": "suining,sn",
+    "city_level": 20000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 432,
+    "city_name": "日喀则",
+    "city_pinyin": "rikaze",
+    "city_synonym": "rkz,rikaze",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 433,
+    "city_name": "阿里",
+    "city_pinyin": "ali",
+    "city_synonym": "al,ali",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 434,
+    "city_name": "加格达奇",
+    "city_pinyin": "jiagedaqi",
+    "city_synonym": "jgdq,jiagedaqi",
+    "city_level": 10000,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 435,
+    "city_name": "五台山",
+    "city_pinyin": "wutaishan",
+    "city_synonym": "wutaishan,wts",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 436,
+    "city_name": "木渎",
+    "city_pinyin": "mudu",
+    "city_synonym": "mudu,md",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 437,
+    "city_name": "周庄",
+    "city_pinyin": "zhouzhuang",
+    "city_synonym": "zhouzhuang,zz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 438,
+    "city_name": "同里",
+    "city_pinyin": "tongli",
+    "city_synonym": "tongli,tl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 439,
+    "city_name": "雁荡山",
+    "city_pinyin": "yandangshan",
+    "city_synonym": "yandangshan,yds",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 440,
+    "city_name": "西塘",
+    "city_pinyin": "xitang",
+    "city_synonym": "xitang,xt",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 441,
+    "city_name": "乌镇",
+    "city_pinyin": "wuzhen",
+    "city_synonym": "wuzhen,wz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 442,
+    "city_name": "安昌",
+    "city_pinyin": "anchang",
+    "city_synonym": "anchang,ac",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 443,
+    "city_name": "普陀山",
+    "city_pinyin": "putuoshan",
+    "city_synonym": "putuoshan,pts",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 444,
+    "city_name": "宏村",
+    "city_pinyin": "hongcun",
+    "city_synonym": "hongcun,hc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 445,
+    "city_name": "九华山",
+    "city_pinyin": "jiuhuashan",
+    "city_synonym": "jiuhuashan,jhs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 446,
+    "city_name": "丹霞山",
+    "city_pinyin": "danxianshan",
+    "city_synonym": "danxianshan,dxs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 447,
+    "city_name": "放鸡岛",
+    "city_pinyin": "fangjidao",
+    "city_synonym": "fangjidao,fjd",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 448,
+    "city_name": "黄果树",
+    "city_pinyin": "huangguoshu",
+    "city_synonym": "huangguoshu,hgs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 449,
+    "city_name": "华山",
+    "city_pinyin": "huashan",
+    "city_synonym": "huashan,hs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 451,
+    "city_name": "束河古镇",
+    "city_pinyin": "shuheguzhen",
+    "city_synonym": "shuheguzhen,shgz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 452,
+    "city_name": "千岛湖",
+    "city_pinyin": "qiandaohu",
+    "city_synonym": "qiandaohu,qdh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 453,
+    "city_name": "鼓浪屿",
+    "city_pinyin": "gulangyu",
+    "city_synonym": "gulangyu,gly",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 454,
+    "city_name": "三亚湾",
+    "city_pinyin": "sanyawan",
+    "city_synonym": "sanyawan,syw",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 455,
+    "city_name": "亚龙湾",
+    "city_pinyin": "yalongwan",
+    "city_synonym": "yalongwan,ylw",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 456,
+    "city_name": "大东海",
+    "city_pinyin": "dadonghai",
+    "city_synonym": "dadonghai,ddh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 457,
+    "city_name": "三清山",
+    "city_pinyin": "sanqingshan",
+    "city_synonym": "sanqingshan,sqs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 458,
+    "city_name": "青城山",
+    "city_pinyin": "qingchengshan",
+    "city_synonym": "qingchengshan,qcs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 459,
+    "city_name": "亚布力",
+    "city_pinyin": "yabuli",
+    "city_synonym": "yabuli,ybl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 460,
+    "city_name": "衡山",
+    "city_pinyin": "hengshan",
+    "city_synonym": "hengshan,hs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 461,
+    "city_name": "泸沽湖",
+    "city_pinyin": "luguhu",
+    "city_synonym": "luguhu,lgh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 462,
+    "city_name": "大研古城",
+    "city_pinyin": "dayangucheng",
+    "city_synonym": "dayangucheng,dygc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 463,
+    "city_name": "日月潭",
+    "city_pinyin": "riyuetan",
+    "city_synonym": "riyuetan,ryt",
+    "city_level": 0,
+    "city_priority": 4,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 464,
+    "city_name": "巽寮湾",
+    "city_pinyin": "xunliaowan",
+    "city_synonym": "xunliaowan,xlw",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 465,
+    "city_name": "台湾",
+    "city_pinyin": "taiwan",
+    "city_synonym": "taiwan,tw",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 466,
+    "city_name": "垦丁",
+    "city_pinyin": "kending",
+    "city_synonym": "kending,kd",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 467,
+    "city_name": "黄龙溪",
+    "city_pinyin": "huanglongxi",
+    "city_synonym": "huanglongxi,hlx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 468,
+    "city_name": "海螺沟",
+    "city_pinyin": "hailuogou",
+    "city_synonym": "hailuogou,hlg",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 469,
+    "city_name": "涠洲岛",
+    "city_pinyin": "weizhoudao",
+    "city_synonym": "weizhoudao,wzd",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 470,
+    "city_name": "武当山",
+    "city_pinyin": "wudangshan",
+    "city_synonym": "wudangshan,wds",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 471,
+    "city_name": "双廊",
+    "city_pinyin": "shuanglang",
+    "city_synonym": "shuanglang,sl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 472,
+    "city_name": "曾厝垵",
+    "city_pinyin": "zengcuoan",
+    "city_synonym": "zengcuoan,zca",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 473,
+    "city_name": "朱家尖",
+    "city_pinyin": "zhujiajian",
+    "city_synonym": "zhujiajian,zjj",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 474,
+    "city_name": "洱海",
+    "city_pinyin": "erhai",
+    "city_synonym": "erhai,eh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 475,
+    "city_name": "静海县",
+    "city_pinyin": "jinghaixian",
+    "city_synonym": "jinghaixian,jhx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 476,
+    "city_name": "蓟县",
+    "city_pinyin": "jixian",
+    "city_synonym": "jixian,jx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 477,
+    "city_name": "赵县",
+    "city_pinyin": "zhaoxian",
+    "city_synonym": "zhaoxian,zx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 478,
+    "city_name": "滦县",
+    "city_pinyin": "luanxian",
+    "city_synonym": "luanxian,lx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 479,
+    "city_name": "遵化",
+    "city_pinyin": "zunhua",
+    "city_synonym": "zunhua,zh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 480,
+    "city_name": "山海关",
+    "city_pinyin": "shanhaiguan",
+    "city_synonym": "shanhaiguan,shg",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 481,
+    "city_name": "北戴河",
+    "city_pinyin": "beidaihe",
+    "city_synonym": "beidaihe,bdh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 482,
+    "city_name": "涿州",
+    "city_pinyin": "zhuozhou",
+    "city_synonym": "zhuozhou,zz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 483,
+    "city_name": "定州",
+    "city_pinyin": "dingzhou",
+    "city_synonym": "dingzhou,dz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 484,
+    "city_name": "安国",
+    "city_pinyin": "anguo",
+    "city_synonym": "anguo,ag",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 485,
+    "city_name": "高碑店",
+    "city_pinyin": "gaobeidian",
+    "city_synonym": "gaobeidian,gbd",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 486,
+    "city_name": "兴隆县",
+    "city_pinyin": "xinglongxian",
+    "city_synonym": "xinglongxian,xlx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 487,
+    "city_name": "滦平县",
+    "city_pinyin": "luanpingxian",
+    "city_synonym": "luanpingxian,lpx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 488,
+    "city_name": "隆化县",
+    "city_pinyin": "longhuaxian",
+    "city_synonym": "longhuaxian,lhx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 489,
+    "city_name": "河间",
+    "city_pinyin": "hejian",
+    "city_synonym": "hejian,hj",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 490,
+    "city_name": "三河",
+    "city_pinyin": "sanhe",
+    "city_synonym": "sanhe,sh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 491,
+    "city_name": "山阴县",
+    "city_pinyin": "shanyinxian",
+    "city_synonym": "shanyinxian,syx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 492,
+    "city_name": "应县",
+    "city_pinyin": "yingxian",
+    "city_synonym": "yingxian,yx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 493,
+    "city_name": "右玉县",
+    "city_pinyin": "youyuxian",
+    "city_synonym": "youyuxian,yyx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 494,
+    "city_name": "怀仁县",
+    "city_pinyin": "huairenxian",
+    "city_synonym": "huairenxian,hrx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 495,
+    "city_name": "和顺",
+    "city_pinyin": "heshunxian",
+    "city_synonym": "heshunxian,hsx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 496,
+    "city_name": "祁县",
+    "city_pinyin": "qixian",
+    "city_synonym": "qixian,qx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 497,
+    "city_name": "平遥县",
+    "city_pinyin": "pingyaoxian",
+    "city_synonym": "pingyaoxian,pyx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 498,
+    "city_name": "灵石县",
+    "city_pinyin": "lingshixian",
+    "city_synonym": "lingshixian,lsx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 499,
+    "city_name": "介休",
+    "city_pinyin": "jiexiu",
+    "city_synonym": "jiexiu,jx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 500,
+    "city_name": "绛县",
+    "city_pinyin": "jiangxian",
+    "city_synonym": "jiangxian,jx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 501,
+    "city_name": "芮城县",
+    "city_pinyin": "ruichengxian",
+    "city_synonym": "ruichengxian,rcx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 502,
+    "city_name": "永济",
+    "city_pinyin": "yongji",
+    "city_synonym": "yongji,yj",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 503,
+    "city_name": "侯马",
+    "city_pinyin": "houma",
+    "city_synonym": "houma,hm",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 504,
+    "city_name": "霍州",
+    "city_pinyin": "huozhou",
+    "city_synonym": "huozhou,hz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 505,
+    "city_name": "宁城县",
+    "city_pinyin": "ningchengxian",
+    "city_synonym": "ningchengxian,ncx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 506,
+    "city_name": "霍林郭勒",
+    "city_pinyin": "huolinguole",
+    "city_synonym": "huolinguole,hlgl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 507,
+    "city_name": "东胜",
+    "city_pinyin": "dongsheng",
+    "city_synonym": "dongsheng,ds",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 508,
+    "city_name": "牙克石",
+    "city_pinyin": "yakeshi",
+    "city_synonym": "yakeshi,yks",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 509,
+    "city_name": "扎兰屯",
+    "city_pinyin": "zalantun",
+    "city_synonym": "zalantun,zlt",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 510,
+    "city_name": "额尔古纳",
+    "city_pinyin": "eerguna",
+    "city_synonym": "eerguna,eegn",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 511,
+    "city_name": "根河",
+    "city_pinyin": "genhe",
+    "city_synonym": "genhe,gh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 512,
+    "city_name": "临河",
+    "city_pinyin": "linhe",
+    "city_synonym": "linhe,lh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 513,
+    "city_name": "集宁",
+    "city_pinyin": "jining",
+    "city_synonym": "jining,jn",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 514,
+    "city_name": "阿尔山",
+    "city_pinyin": "aershan",
+    "city_synonym": "aershan,aes",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 515,
+    "city_name": "二连浩特",
+    "city_pinyin": "erlianhaote",
+    "city_synonym": "erlianhaote,elht",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 516,
+    "city_name": "新民",
+    "city_pinyin": "xinmin",
+    "city_synonym": "xinmin,xm",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 517,
+    "city_name": "绥中县",
+    "city_pinyin": "suizhongxian",
+    "city_synonym": "suizhongxian,szx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 518,
+    "city_name": "建昌县",
+    "city_pinyin": "jianchangxian",
+    "city_synonym": "jianchangxian,jcx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 519,
+    "city_name": "兴城",
+    "city_pinyin": "xingcheng",
+    "city_synonym": "xingcheng,xc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 520,
+    "city_name": "五大连池",
+    "city_pinyin": "wudalianchi",
+    "city_synonym": "wudalianchi,wdlc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 521,
+    "city_name": "崇明县",
+    "city_pinyin": "chongmingxian",
+    "city_synonym": "chongmingxian,cmx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 522,
+    "city_name": "江阴",
+    "city_pinyin": "jiangyin",
+    "city_synonym": "jiangyin,jy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 523,
+    "city_name": "常熟",
+    "city_pinyin": "changshu",
+    "city_synonym": "changshu,cs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 524,
+    "city_name": "张家港",
+    "city_pinyin": "zhangjiagang",
+    "city_synonym": "zhangjiagang,zjg",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 525,
+    "city_name": "吴江",
+    "city_pinyin": "wujiang",
+    "city_synonym": "wujiang,wj",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 526,
+    "city_name": "太仓",
+    "city_pinyin": "taicang",
+    "city_synonym": "taicang,tc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 527,
+    "city_name": "海门",
+    "city_pinyin": "haimen",
+    "city_synonym": "haimen,hm",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 528,
+    "city_name": "盱眙县",
+    "city_pinyin": "xuyixian",
+    "city_synonym": "xuyixian,xyx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 529,
+    "city_name": "高邮",
+    "city_pinyin": "gaoyou",
+    "city_synonym": "gaoyou,gy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 530,
+    "city_name": "江都",
+    "city_pinyin": "jiangdu",
+    "city_synonym": "jiangdu,jd",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 531,
+    "city_name": "丹阳",
+    "city_pinyin": "danyang",
+    "city_synonym": "danyang,dy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 532,
+    "city_name": "扬中",
+    "city_pinyin": "yangzhong",
+    "city_synonym": "yangzhong,yz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 533,
+    "city_name": "桐庐县",
+    "city_pinyin": "tongluxian",
+    "city_synonym": "tongluxian,tlx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 534,
+    "city_name": "淳安县",
+    "city_pinyin": "chunanxian",
+    "city_synonym": "chunanxian,cax",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 535,
+    "city_name": "建德",
+    "city_pinyin": "jiande",
+    "city_synonym": "jiande,jd",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 536,
+    "city_name": "富阳",
+    "city_pinyin": "fuyang",
+    "city_synonym": "fuyang,fy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 537,
+    "city_name": "临安",
+    "city_pinyin": "linan",
+    "city_synonym": "linan,la",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 538,
+    "city_name": "象山县",
+    "city_pinyin": "xiangshanxian",
+    "city_synonym": "xiangshanxian,xsx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 539,
+    "city_name": "宁海县",
+    "city_pinyin": "ninghaixian",
+    "city_synonym": "ninghaixian,nhx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 540,
+    "city_name": "慈溪",
+    "city_pinyin": "cixi",
+    "city_synonym": "cixi,cx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 541,
+    "city_name": "奉化",
+    "city_pinyin": "fenghua",
+    "city_synonym": "fenghua,fh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 542,
+    "city_name": "瑞安",
+    "city_pinyin": "ruian",
+    "city_synonym": "ruian,ra",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 543,
+    "city_name": "乐清",
+    "city_pinyin": "leqing",
+    "city_synonym": "leqing,lq",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 544,
+    "city_name": "嘉善县",
+    "city_pinyin": "jiashanxian",
+    "city_synonym": "jiashanxian,jsx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 545,
+    "city_name": "海盐县",
+    "city_pinyin": "haiyanxian",
+    "city_synonym": "haiyanxian,hyx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 546,
+    "city_name": "平湖",
+    "city_pinyin": "pinghu",
+    "city_synonym": "pinghu,ph",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 547,
+    "city_name": "桐乡",
+    "city_pinyin": "tongxiang",
+    "city_synonym": "tongxiang,tx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 548,
+    "city_name": "南浔",
+    "city_pinyin": "nanxun",
+    "city_synonym": "nanxun,nx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 549,
+    "city_name": "德清县",
+    "city_pinyin": "deqingxian",
+    "city_synonym": "deqingxian,dqx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 550,
+    "city_name": "安吉县",
+    "city_pinyin": "anjixian",
+    "city_synonym": "anjixian,ajx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 551,
+    "city_name": "绍兴县",
+    "city_pinyin": "shaoxingxian",
+    "city_synonym": "shaoxingxian,sxx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 552,
+    "city_name": "新昌县",
+    "city_pinyin": "xinchangxian",
+    "city_synonym": "xinchangxian,xcx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 553,
+    "city_name": "诸暨",
+    "city_pinyin": "zhuji",
+    "city_synonym": "zhuji,zj",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 554,
+    "city_name": "嵊州",
+    "city_pinyin": "shengzhou",
+    "city_synonym": "shengzhou,sz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 555,
+    "city_name": "武义县",
+    "city_pinyin": "wuyixian",
+    "city_synonym": "wuyixian,wyx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 556,
+    "city_name": "浦江县",
+    "city_pinyin": "pujiangxian",
+    "city_synonym": "pujiangxian,pjx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 557,
+    "city_name": "磐安县",
+    "city_pinyin": "pananxian",
+    "city_synonym": "pananxian,pax",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 558,
+    "city_name": "兰溪",
+    "city_pinyin": "lanxi",
+    "city_synonym": "lanxi,lx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 559,
+    "city_name": "东阳",
+    "city_pinyin": "dongyang",
+    "city_synonym": "dongyang,dy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 560,
+    "city_name": "永康",
+    "city_pinyin": "yongkang",
+    "city_synonym": "yongkang,yk",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 561,
+    "city_name": "岱山县",
+    "city_pinyin": "daishanxian",
+    "city_synonym": "daishanxian,dsx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 562,
+    "city_name": "嵊泗",
+    "city_pinyin": "shengsixian",
+    "city_synonym": "shengsixian,ssx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 563,
+    "city_name": "玉环县",
+    "city_pinyin": "yuhuanxian",
+    "city_synonym": "yuhuanxian,yhx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 564,
+    "city_name": "三门县",
+    "city_pinyin": "sanmenxian",
+    "city_synonym": "sanmenxian,smx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 565,
+    "city_name": "天台县",
+    "city_pinyin": "tiantaixian",
+    "city_synonym": "tiantaixian,ttx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 566,
+    "city_name": "仙居县",
+    "city_pinyin": "xianjuxian",
+    "city_synonym": "xianjuxian,xjx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 567,
+    "city_name": "温岭",
+    "city_pinyin": "wenling",
+    "city_synonym": "wenling,wl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 568,
+    "city_name": "临海",
+    "city_pinyin": "linhai",
+    "city_synonym": "linhai,lh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 569,
+    "city_name": "遂昌",
+    "city_pinyin": "suichang",
+    "city_synonym": "suichang,sc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 570,
+    "city_name": "太湖县",
+    "city_pinyin": "taihuxian",
+    "city_synonym": "taihuxian,th",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 571,
+    "city_name": "屯溪",
+    "city_pinyin": "tunxi",
+    "city_synonym": "tunxi,tx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 572,
+    "city_name": "徽州",
+    "city_pinyin": "huizhou",
+    "city_synonym": "huizhou,hz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 573,
+    "city_name": "歙县",
+    "city_pinyin": "shexian",
+    "city_synonym": "shexian,sx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 574,
+    "city_name": "休宁县",
+    "city_pinyin": "xiuningxian",
+    "city_synonym": "xiuningxian,xnx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 575,
+    "city_name": "黟县",
+    "city_pinyin": "yixian",
+    "city_synonym": "yixian,yx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 576,
+    "city_name": "祁门县",
+    "city_pinyin": "qimenxian",
+    "city_synonym": "qimenxian,qmx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 577,
+    "city_name": "巢湖",
+    "city_pinyin": "chaohu",
+    "city_synonym": "chaohu,ch",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 578,
+    "city_name": "福清",
+    "city_pinyin": "fuqing",
+    "city_synonym": "fuqing,fq",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 579,
+    "city_name": "长乐",
+    "city_pinyin": "changle",
+    "city_synonym": "changle,cl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 580,
+    "city_name": "沙县",
+    "city_pinyin": "shaxian",
+    "city_synonym": "shaxian,sx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 581,
+    "city_name": "永安",
+    "city_pinyin": "yongan",
+    "city_synonym": "yongan,ya",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 582,
+    "city_name": "金门县(泉州)",
+    "city_pinyin": "jinmenxian",
+    "city_synonym": "jinmenxian,jmx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 583,
+    "city_name": "石狮",
+    "city_pinyin": "shishi",
+    "city_synonym": "shishi,ss",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 584,
+    "city_name": "南安",
+    "city_pinyin": "nanan",
+    "city_synonym": "nanan,na",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 585,
+    "city_name": "龙海",
+    "city_pinyin": "longhai",
+    "city_synonym": "longhai,lh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 586,
+    "city_name": "漳平",
+    "city_pinyin": "zhangping",
+    "city_synonym": "zhangping,zp",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 587,
+    "city_name": "庐山",
+    "city_pinyin": "lushan",
+    "city_synonym": "lushan,ls",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 588,
+    "city_name": "瑞昌",
+    "city_pinyin": "ruichang",
+    "city_synonym": "ruichang,rc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 589,
+    "city_name": "婺源县",
+    "city_pinyin": "wuyuanxian",
+    "city_synonym": "wuyuanxian,wyx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 590,
+    "city_name": "德兴",
+    "city_pinyin": "dexing",
+    "city_synonym": "dexing,dx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 591,
+    "city_name": "滕州",
+    "city_pinyin": "tengzhou",
+    "city_synonym": "tengzhou,tz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 592,
+    "city_name": "龙口",
+    "city_pinyin": "longkou",
+    "city_synonym": "longkou,lk",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 593,
+    "city_name": "莱阳",
+    "city_pinyin": "laiyang",
+    "city_synonym": "laiyang,ly",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 594,
+    "city_name": "莱州",
+    "city_pinyin": "laizhou",
+    "city_synonym": "laizhou,lz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 595,
+    "city_name": "蓬莱",
+    "city_pinyin": "penglai",
+    "city_synonym": "penglai,pl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 596,
+    "city_name": "招远",
+    "city_pinyin": "zhaoyuan",
+    "city_synonym": "zhaoyuan,zy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 597,
+    "city_name": "栖霞",
+    "city_pinyin": "qixia",
+    "city_synonym": "qixia,qx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 598,
+    "city_name": "海阳",
+    "city_pinyin": "haiyang",
+    "city_synonym": "haiyang,hy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 599,
+    "city_name": "曲阜",
+    "city_pinyin": "qufu",
+    "city_synonym": "qufu,qf",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 600,
+    "city_name": "兖州",
+    "city_pinyin": "yanzhou",
+    "city_synonym": "yanzhou,yz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 601,
+    "city_name": "邹城",
+    "city_pinyin": "zoucheng",
+    "city_synonym": "zoucheng,zc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 602,
+    "city_name": "泰山",
+    "city_pinyin": "taishan",
+    "city_synonym": "taishan,ts",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 603,
+    "city_name": "乐陵",
+    "city_pinyin": "leling",
+    "city_synonym": "leling,ll",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 604,
+    "city_name": "禹城",
+    "city_pinyin": "yucheng",
+    "city_synonym": "yucheng,yc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 605,
+    "city_name": "巩义",
+    "city_pinyin": "gongyi",
+    "city_synonym": "gongyi,gy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 606,
+    "city_name": "荥阳",
+    "city_pinyin": "xingyang",
+    "city_synonym": "xingyang,xy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 607,
+    "city_name": "新密",
+    "city_pinyin": "xinmi",
+    "city_synonym": "xinmi,xm",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 608,
+    "city_name": "新郑",
+    "city_pinyin": "xinzheng",
+    "city_synonym": "xinzheng,xz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 609,
+    "city_name": "登封",
+    "city_pinyin": "dengfeng",
+    "city_synonym": "dengfeng,df",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 610,
+    "city_name": "偃师",
+    "city_pinyin": "yanshi",
+    "city_synonym": "yanshi,ys",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 611,
+    "city_name": "禹州",
+    "city_pinyin": "yuzhou",
+    "city_synonym": "yuzhou,yz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 612,
+    "city_name": "长葛",
+    "city_pinyin": "changge",
+    "city_synonym": "changge,cg",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 613,
+    "city_name": "义马",
+    "city_pinyin": "yima",
+    "city_synonym": "yima,ym",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 614,
+    "city_name": "灵宝",
+    "city_pinyin": "lingbao",
+    "city_synonym": "lingbao,lb",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 615,
+    "city_name": "邓州",
+    "city_pinyin": "dengzhou",
+    "city_synonym": "dengzhou,dz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 616,
+    "city_name": "永城",
+    "city_pinyin": "yongcheng",
+    "city_synonym": "yongcheng,yc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 617,
+    "city_name": "大冶",
+    "city_pinyin": "daye",
+    "city_synonym": "daye,dy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 618,
+    "city_name": "宜都",
+    "city_pinyin": "yidu",
+    "city_synonym": "yidu,yd",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 619,
+    "city_name": "当阳",
+    "city_pinyin": "dangyang",
+    "city_synonym": "dangyang,dy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 620,
+    "city_name": "枝江",
+    "city_pinyin": "zhijiang",
+    "city_synonym": "zhijiang,zj",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 621,
+    "city_name": "襄樊",
+    "city_pinyin": "xiangfan",
+    "city_synonym": "xiangfan,xf,襄阳",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 622,
+    "city_name": "赤壁",
+    "city_pinyin": "chibi",
+    "city_synonym": "chibi,cb",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 623,
+    "city_name": "仙桃",
+    "city_pinyin": "xiantao",
+    "city_synonym": "xiantao,xt",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 624,
+    "city_name": "潜江",
+    "city_pinyin": "qianjiang",
+    "city_synonym": "qianjiang,qj",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 625,
+    "city_name": "神农架林区",
+    "city_pinyin": "shennongjialinqu",
+    "city_synonym": "shennongjialinqu,snjlq",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 626,
+    "city_name": "浏阳",
+    "city_pinyin": "liuyang",
+    "city_synonym": "liuyang,ly",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 627,
+    "city_name": "醴陵",
+    "city_pinyin": "liling",
+    "city_synonym": "liling,ll",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 628,
+    "city_name": "湘乡",
+    "city_pinyin": "xiangxiang",
+    "city_synonym": "xiangxiang,xx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 629,
+    "city_name": "韶山",
+    "city_pinyin": "shaoshan",
+    "city_synonym": "shaoshan,ss",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 630,
+    "city_name": "耒阳",
+    "city_pinyin": "leiyang",
+    "city_synonym": "leiyang,ly",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 631,
+    "city_name": "常宁",
+    "city_pinyin": "changning",
+    "city_synonym": "changning,cn",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 632,
+    "city_name": "汨罗",
+    "city_pinyin": "miluo",
+    "city_synonym": "miluo,ml",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 633,
+    "city_name": "临湘",
+    "city_pinyin": "linxiang",
+    "city_synonym": "linxiang,lx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 634,
+    "city_name": "芷江",
+    "city_pinyin": "zhijiang",
+    "city_synonym": "zhijiang,j",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 635,
+    "city_name": "湘西土家族苗族自治州",
+    "city_pinyin": "xiangxitujiazumiaozuzizhizhou",
+    "city_synonym": "xiangxitujiazumiaozuzizhizhou,xxtjzmzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 636,
+    "city_name": "吉首",
+    "city_pinyin": "jishou",
+    "city_synonym": "jishou,js",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 637,
+    "city_name": "凤凰",
+    "city_pinyin": "fenghuang",
+    "city_synonym": "fenghuang,fh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 638,
+    "city_name": "增城",
+    "city_pinyin": "zengcheng",
+    "city_synonym": "zengcheng,zc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 639,
+    "city_name": "从化",
+    "city_pinyin": "conghua",
+    "city_synonym": "conghua,ch",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 640,
+    "city_name": "仁化县",
+    "city_pinyin": "renhuaxian",
+    "city_synonym": "renhuaxian,rhx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 641,
+    "city_name": "南澳县",
+    "city_pinyin": "nanaoxian",
+    "city_synonym": "nanaoxian,nax",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 642,
+    "city_name": "台山",
+    "city_pinyin": "taishan",
+    "city_synonym": "taishan,ts",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 643,
+    "city_name": "电白县",
+    "city_pinyin": "dianbaixian",
+    "city_synonym": "dianbaixian,dbx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 644,
+    "city_name": "高要",
+    "city_pinyin": "gaoyao",
+    "city_synonym": "gaoyao,gy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 645,
+    "city_name": "四会",
+    "city_pinyin": "sihui",
+    "city_synonym": "sihui,sh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 646,
+    "city_name": "龙门县",
+    "city_pinyin": "longmenxian",
+    "city_synonym": "longmenxian,lmx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 647,
+    "city_name": "梅县",
+    "city_pinyin": "meixian",
+    "city_synonym": "meixian,mx",
+    "city_level": 0,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 648,
+    "city_name": "兴宁",
+    "city_pinyin": "xingning",
+    "city_synonym": "xingning,xn",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 649,
+    "city_name": "汕尾",
+    "city_pinyin": "shanwei",
+    "city_synonym": "shanwei,sw",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 650,
+    "city_name": "清新县",
+    "city_pinyin": "qingxinxian",
+    "city_synonym": "qingxinxian,qxx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 651,
+    "city_name": "英德",
+    "city_pinyin": "yingde",
+    "city_synonym": "yingde,yd",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 652,
+    "city_name": "连州",
+    "city_pinyin": "lianzhou",
+    "city_synonym": "lianzhou,lz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 653,
+    "city_name": "普宁",
+    "city_pinyin": "puning",
+    "city_synonym": "puning,pn",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 654,
+    "city_name": "阳朔",
+    "city_pinyin": "yangshuoxian",
+    "city_synonym": "yangshuoxian,ysx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 655,
+    "city_name": "平乐",
+    "city_pinyin": "pinglexian",
+    "city_synonym": "pinglexian,plx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 656,
+    "city_name": "荔浦县",
+    "city_pinyin": "lipuxian",
+    "city_synonym": "lipuxian,ltx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 657,
+    "city_name": "来宾",
+    "city_pinyin": "laibin",
+    "city_synonym": "laibin,lb",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 658,
+    "city_name": "五指山",
+    "city_pinyin": "wuzhishan",
+    "city_synonym": "wuzhishan,wzs",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 659,
+    "city_name": "儋县",
+    "city_pinyin": "danxian",
+    "city_synonym": "danxian,dx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 660,
+    "city_name": "定安县",
+    "city_pinyin": "dingan",
+    "city_synonym": "dingan,da",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 661,
+    "city_name": "屯昌县",
+    "city_pinyin": "tunchang",
+    "city_synonym": "tunchang,tc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 662,
+    "city_name": "澄迈县",
+    "city_pinyin": "chengmai",
+    "city_synonym": "chengmai,cm",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 663,
+    "city_name": "临高县",
+    "city_pinyin": "lingao",
+    "city_synonym": "lingao,lg",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 664,
+    "city_name": "白沙黎族自治县",
+    "city_pinyin": "baishalizuzizhixian",
+    "city_synonym": "baishalizuzizhixian,bslzzzx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 665,
+    "city_name": "昌江黎族自治县",
+    "city_pinyin": "changjianglizuzizhixian",
+    "city_synonym": "changjianglizuzizhixian,cjlzzzx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 666,
+    "city_name": "乐东黎族自治县",
+    "city_pinyin": "ledonglizuzizhixian",
+    "city_synonym": "ledonglizuzizhixian,ldlzzzx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 667,
+    "city_name": "保亭黎族苗族自治县",
+    "city_pinyin": "baotinglizumiaozuzizhixian",
+    "city_synonym": "baotinglizumiaozuzizhixian,btlzmzzzx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 668,
+    "city_name": "琼中黎族苗族自治县",
+    "city_pinyin": "qiongzhonglizumiaozuzizhixian",
+    "city_synonym": "qiongzhonglizumiaozuzizhixian,qzlzmzzzx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 669,
+    "city_name": "西沙群岛",
+    "city_pinyin": "xishaqundaoxian",
+    "city_synonym": "xishaqundaoxian,xsqdx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 670,
+    "city_name": "南沙群岛",
+    "city_pinyin": "nanshaqundaoxian",
+    "city_synonym": "nanshaqundaoxian,nsqdx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 671,
+    "city_name": "中沙群岛的岛礁及其海域",
+    "city_pinyin": "zhongshaqundaodidaojiaojiqihaiyu",
+    "city_synonym": "zhongshaqundaodidaojiaojiqihaiyu,zsqdddjjqhy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 672,
+    "city_name": "巫山县",
+    "city_pinyin": "wushanxian",
+    "city_synonym": "wushanxian,wsx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 673,
+    "city_name": "彭州",
+    "city_pinyin": "pengzhou",
+    "city_synonym": "pengzhou,pz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 674,
+    "city_name": "邛崃",
+    "city_pinyin": "qionglai",
+    "city_synonym": "qionglai,ql",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 675,
+    "city_name": "崇州",
+    "city_pinyin": "chongzhou",
+    "city_synonym": "chongzhou,cz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 676,
+    "city_name": "绵竹",
+    "city_pinyin": "mianzhu",
+    "city_synonym": "mianzhu,mz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 677,
+    "city_name": "峨眉山",
+    "city_pinyin": "emeishan",
+    "city_synonym": "emeishan,ems",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 678,
+    "city_name": "阆中",
+    "city_pinyin": "langzhong",
+    "city_synonym": "langzhong,lz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 679,
+    "city_name": "达县",
+    "city_pinyin": "daxian",
+    "city_synonym": "daxian,dx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 680,
+    "city_name": "阿坝藏族羌族自治州",
+    "city_pinyin": "abazangzuqiangzuzizhizhou",
+    "city_synonym": "abazangzuqiangzuzizhizhou,abzzqzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 681,
+    "city_name": "甘孜藏族自治州",
+    "city_pinyin": "ganzizangzuzizhizhou",
+    "city_synonym": "ganzizangzuzizhizhou,gzzzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 682,
+    "city_name": "康定县",
+    "city_pinyin": "kangdingxian",
+    "city_synonym": "kangdingxian,kdx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 683,
+    "city_name": "稻城县",
+    "city_pinyin": "daochengxian",
+    "city_synonym": "daochengxian,dcx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 684,
+    "city_name": "凉山彝族自治州",
+    "city_pinyin": "liangshanyizuzizhizhou",
+    "city_synonym": "liangshanyizuzizhizhou,lsyzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 685,
+    "city_name": "镇宁布依族苗族自治县",
+    "city_pinyin": "zhenningbuyizumiaozuzizhixian",
+    "city_synonym": "zhenningbuyizumiaozuzizhixian,znbyzmzzzx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 686,
+    "city_name": "黔西南布依族苗族自治州",
+    "city_pinyin": "qianxinanbuyizumiaozuzizhizhou",
+    "city_synonym": "qianxinanbuyizumiaozuzizhizhou,qxnbyzmzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 687,
+    "city_name": "黔东南苗族侗族自治州",
+    "city_pinyin": "qiandongnanmiaozudongzuzizhizhou",
+    "city_synonym": "qiandongnanmiaozudongzuzizhizhou,qdnmzdzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 688,
+    "city_name": "黔南布依族苗族自治州",
+    "city_pinyin": "qiannanbuyizumiaozuzizhizhou",
+    "city_synonym": "qiannanbuyizumiaozuzizhizhou,qnbyzmzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 689,
+    "city_name": "普洱",
+    "city_pinyin": "puer",
+    "city_synonym": "puer,pe",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 690,
+    "city_name": "红河哈尼族彝族自治州",
+    "city_pinyin": "honghehanizuyizuzizhizhou",
+    "city_synonym": "honghehanizuyizuzizhizhou,hhhnzyzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 691,
+    "city_name": "个旧",
+    "city_pinyin": "gejiu",
+    "city_synonym": "gejiu,gj",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 692,
+    "city_name": "景洪",
+    "city_pinyin": "jinghong",
+    "city_synonym": "jinghong,jh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 693,
+    "city_name": "德宏傣族景颇族自治州",
+    "city_pinyin": "dehongdaizujingpozuzizhizhou",
+    "city_synonym": "dehongdaizujingpozuzizhizhou,dhdzjpzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 694,
+    "city_name": "瑞丽",
+    "city_pinyin": "ruili",
+    "city_synonym": "ruili,rl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 695,
+    "city_name": "潞西",
+    "city_pinyin": "luxi",
+    "city_synonym": "luxi,lx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 696,
+    "city_name": "怒江傈僳族自治州",
+    "city_pinyin": "nujianglisuzuzizhizhou",
+    "city_synonym": "nujianglisuzuzizhizhou,njlszzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 697,
+    "city_name": "迪庆藏族自治州",
+    "city_pinyin": "diqingzangzuzizhizhou",
+    "city_synonym": "diqingzangzuzizhizhou,dqzzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 698,
+    "city_name": "香格里拉",
+    "city_pinyin": "xianggelila",
+    "city_synonym": "xianggelila,xgll",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 699,
+    "city_name": "山南",
+    "city_pinyin": "shannandiqu",
+    "city_synonym": "shannandiqu,sndq",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 701,
+    "city_name": "林芝县",
+    "city_pinyin": "linzhixian",
+    "city_synonym": "linzhixian,lzx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 702,
+    "city_name": "铜川",
+    "city_pinyin": "tongchuan",
+    "city_synonym": "tongchuan,tc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 703,
+    "city_name": "凤翔县",
+    "city_pinyin": "fengxiangxian",
+    "city_synonym": "fengxiangxian,fxx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 704,
+    "city_name": "岐山县",
+    "city_pinyin": "qishanxian",
+    "city_synonym": "qishanxian,qsx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 705,
+    "city_name": "扶风县",
+    "city_pinyin": "fufengxian",
+    "city_synonym": "fufengxian,ffx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 706,
+    "city_name": "乾县",
+    "city_pinyin": "qianxian",
+    "city_synonym": "qianxian,qx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 707,
+    "city_name": "韩城",
+    "city_pinyin": "hancheng",
+    "city_synonym": "hancheng,hc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 708,
+    "city_name": "华阴",
+    "city_pinyin": "huayin",
+    "city_synonym": "huayin,hy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 709,
+    "city_name": "神木县",
+    "city_pinyin": "shenmuxian",
+    "city_synonym": "shenmuxian,smx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 710,
+    "city_name": "玉门",
+    "city_pinyin": "yumen",
+    "city_synonym": "yumen,ym",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 711,
+    "city_name": "临夏",
+    "city_pinyin": "linxiahuizuzizhizhou",
+    "city_synonym": "linxiahuizuzizhizhou,lxhzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 712,
+    "city_name": "甘南",
+    "city_pinyin": "gannanzangzuzizhizhou",
+    "city_synonym": "gannanzangzuzizhizhou,gnzzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 713,
+    "city_name": "合作",
+    "city_pinyin": "hezuo",
+    "city_synonym": "hezuo,hz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 714,
+    "city_name": "海北藏族自治州",
+    "city_pinyin": "haibeizangzuzizhizhou",
+    "city_synonym": "haibeizangzuzizhizhou,hbzzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 715,
+    "city_name": "黄南藏族自治州",
+    "city_pinyin": "huangnanzangzuzizhizhou",
+    "city_synonym": "huangnanzangzuzizhizhou,hnzzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 716,
+    "city_name": "海南藏族自治州",
+    "city_pinyin": "hainanzangzuzizhizhou",
+    "city_synonym": "hainanzangzuzizhizhou,hnzzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 717,
+    "city_name": "果洛藏族自治州",
+    "city_pinyin": "guoluozangzuzizhizhou",
+    "city_synonym": "guoluozangzuzizhizhou,glzzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 718,
+    "city_name": "海西蒙古族藏族自治州",
+    "city_pinyin": "haiximengguzuzangzuzizhizhou",
+    "city_synonym": "haiximengguzuzangzuzizhizhou,hxmgzzzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 719,
+    "city_name": "青铜峡",
+    "city_pinyin": "qingtongxia",
+    "city_synonym": "qingtongxia,qtx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 720,
+    "city_name": "博尔塔拉蒙古自治州",
+    "city_pinyin": "boertalamengguzizhizhou",
+    "city_synonym": "boertalamengguzizhizhou,betlmgzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 721,
+    "city_name": "巴音郭楞蒙古自治州",
+    "city_pinyin": "bayinguolengmengguzizhizhou",
+    "city_synonym": "bayinguolengmengguzizhizhou,byglmgzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 722,
+    "city_name": "克孜勒苏柯尔克孜自治州",
+    "city_pinyin": "kezilesukeerkezizizhizhou",
+    "city_synonym": "kezilesukeerkezizizhizhou,kzlskekzzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 723,
+    "city_name": "阿图什",
+    "city_pinyin": "atushi",
+    "city_synonym": "atushi,ats",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 724,
+    "city_name": "伊犁哈萨克自治州",
+    "city_pinyin": "yilihasakezizhizhou",
+    "city_synonym": "yilihasakezizhizhou,ylhskzzz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 725,
+    "city_name": "奎屯",
+    "city_pinyin": "kuitun",
+    "city_synonym": "kuitun,kt",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 726,
+    "city_name": "布尔津县",
+    "city_pinyin": "buerjinxian",
+    "city_synonym": "buerjinxian,bejx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 727,
+    "city_name": "阿拉尔",
+    "city_pinyin": "alaer",
+    "city_synonym": "alaer,ale",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 728,
+    "city_name": "图木舒克",
+    "city_pinyin": "tumushuke",
+    "city_synonym": "tumushuke,tmsk",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 729,
+    "city_name": "五家渠",
+    "city_pinyin": "wujiaqu",
+    "city_synonym": "wujiaqu,wjq",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 730,
+    "city_name": "台北",
+    "city_pinyin": "taibeishi",
+    "city_synonym": "taibeishi,tbs",
+    "city_level": 0,
+    "city_priority": 1,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 731,
+    "city_name": "高雄",
+    "city_pinyin": "gaoxiongshi",
+    "city_synonym": "gaoxiongshi,gxs",
+    "city_level": 0,
+    "city_priority": 1,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 732,
+    "city_name": "台南",
+    "city_pinyin": "tainanshi",
+    "city_synonym": "tainanshi,tns",
+    "city_level": 0,
+    "city_priority": 3,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 733,
+    "city_name": "台中",
+    "city_pinyin": "taizhongshi",
+    "city_synonym": "taizhongshi,tzs",
+    "city_level": 0,
+    "city_priority": 1,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 734,
+    "city_name": "金门县(台湾)",
+    "city_pinyin": "jinmenxian",
+    "city_synonym": "jinmenxian,jmx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 735,
+    "city_name": "南投县",
+    "city_pinyin": "nantouxian",
+    "city_synonym": "nantouxian,ntx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 736,
+    "city_name": "基隆",
+    "city_pinyin": "jilongshi",
+    "city_synonym": "jilongshi,jls",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 737,
+    "city_name": "新竹",
+    "city_pinyin": "xinzhushi",
+    "city_synonym": "xinzhushi,xzs",
+    "city_level": 0,
+    "city_priority": 4,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 738,
+    "city_name": "嘉义",
+    "city_pinyin": "jiayishi",
+    "city_synonym": "jiayishi,jys",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 739,
+    "city_name": "新北",
+    "city_pinyin": "xinbeishi",
+    "city_synonym": "xinbeishi,xbx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 740,
+    "city_name": "宜兰县",
+    "city_pinyin": "yilanxian",
+    "city_synonym": "yilanxian,ylx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 741,
+    "city_name": "新竹县",
+    "city_pinyin": "xinzhuxian",
+    "city_synonym": "xinzhuxian,xzx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 742,
+    "city_name": "桃园县",
+    "city_pinyin": "taoyuanxian",
+    "city_synonym": "taoyuanxian,tyx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 743,
+    "city_name": "苗栗县",
+    "city_pinyin": "miaolixian",
+    "city_synonym": "miaolixian,mlx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 744,
+    "city_name": "台中县",
+    "city_pinyin": "taizhongxian",
+    "city_synonym": "taizhongxian,tzx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 745,
+    "city_name": "彰化县",
+    "city_pinyin": "zhanghuaxian",
+    "city_synonym": "zhanghuaxian,zhx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 746,
+    "city_name": "嘉义县",
+    "city_pinyin": "jiayixian",
+    "city_synonym": "jiayixian,jyx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 747,
+    "city_name": "云林县",
+    "city_pinyin": "yunlinxian",
+    "city_synonym": "yunlinxian,ylx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 748,
+    "city_name": "台南县",
+    "city_pinyin": "tainanxian",
+    "city_synonym": "tainanxian,tnx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 749,
+    "city_name": "高雄县",
+    "city_pinyin": "gaoxiongxian",
+    "city_synonym": "gaoxiongxian,gxx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 750,
+    "city_name": "屏东县",
+    "city_pinyin": "pingdongxian",
+    "city_synonym": "pingdongxian,pdx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 751,
+    "city_name": "台东县",
+    "city_pinyin": "taidongxian",
+    "city_synonym": "taidongxian,tdx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 752,
+    "city_name": "花莲县",
+    "city_pinyin": "hualianxian",
+    "city_synonym": "hualianxian,hlx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 753,
+    "city_name": "澎湖县",
+    "city_pinyin": "penghuxian",
+    "city_synonym": "penghuxian,phx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 754,
+    "city_name": "香港",
+    "city_pinyin": "xianggang",
+    "city_synonym": "xianggang,xg",
+    "city_level": 0,
+    "city_priority": 1,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 755,
+    "city_name": "澳门",
+    "city_pinyin": "aomen",
+    "city_synonym": "aomen,am",
+    "city_level": 0,
+    "city_priority": 1,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 756,
+    "city_name": "桂平",
+    "city_pinyin": "guiping",
+    "city_synonym": "guiping,gp",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 757,
+    "city_name": "稻城亚丁",
+    "city_pinyin": "daochengyading",
+    "city_synonym": "daochengyading,dcyd",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 758,
+    "city_name": "阿拉善左旗",
+    "city_pinyin": "alashanzuoqi",
+    "city_synonym": "alashanzuoqi,alszq",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 759,
+    "city_name": "阿拉善右旗",
+    "city_pinyin": "alashanyouqi",
+    "city_synonym": "alashanyouqi,alsyq",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 760,
+    "city_name": "阿拉善盟额济纳旗",
+    "city_pinyin": "alashanmengejinaqi",
+    "city_synonym": "alashanmengejinaqi,alsmejnq",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 761,
+    "city_name": "九台",
+    "city_pinyin": "jiutai",
+    "city_synonym": "jiutai,jt",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 762,
+    "city_name": "安仁",
+    "city_pinyin": "anren",
+    "city_synonym": "anren,anr,ar",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 763,
+    "city_name": "高安",
+    "city_pinyin": "gaoan",
+    "city_synonym": "gaoan",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 764,
+    "city_name": "大荔",
+    "city_pinyin": "dali",
+    "city_synonym": "dali,dl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 765,
+    "city_name": "禄丰",
+    "city_pinyin": "lufeng",
+    "city_synonym": "lufeng,lf",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 766,
+    "city_name": "界首",
+    "city_pinyin": "jieshou",
+    "city_synonym": "jieshou,js",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 767,
+    "city_name": "尼木",
+    "city_pinyin": "nimu",
+    "city_synonym": "nimu,nm",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 768,
+    "city_name": "南雄",
+    "city_pinyin": "nanxiong",
+    "city_synonym": "nanxiong,nx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 769,
+    "city_name": "图们",
+    "city_pinyin": "tumen",
+    "city_synonym": "tumeng,tm",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 770,
+    "city_name": "仁布",
+    "city_pinyin": "renbu",
+    "city_synonym": "renbu,rb",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 771,
+    "city_name": "沈丘",
+    "city_pinyin": "shenqiu",
+    "city_synonym": "shenqiu,shq",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 772,
+    "city_name": "平罗",
+    "city_pinyin": "pingluo",
+    "city_synonym": "pingluo,pl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 773,
+    "city_name": "太谷",
+    "city_pinyin": "taigu",
+    "city_synonym": "taigu,tg",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 774,
+    "city_name": "闻喜",
+    "city_pinyin": "wenxi",
+    "city_synonym": "wenxi,wx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 775,
+    "city_name": "项城",
+    "city_pinyin": "xiangcheng",
+    "city_synonym": "xiangcheng,xc",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 776,
+    "city_name": "黄平",
+    "city_pinyin": "huangping",
+    "city_synonym": "huangping,hp",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 777,
+    "city_name": "儋州",
+    "city_pinyin": "danzhou",
+    "city_synonym": "danzhou,dz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 778,
+    "city_name": "抚远",
+    "city_pinyin": "fuyuan",
+    "city_synonym": "fuyuan,fy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 779,
+    "city_name": "黔江",
+    "city_pinyin": "qianjiang",
+    "city_synonym": "qianjiang,qj",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 780,
+    "city_name": "红原",
+    "city_pinyin": "hongyuan",
+    "city_synonym": "hongyuan,hy",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 781,
+    "city_name": "宁蒗",
+    "city_pinyin": "ninglang",
+    "city_synonym": "ninglang,nl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 784,
+    "city_name": "大足",
+    "city_pinyin": "dazu",
+    "city_synonym": "dazu,dz",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 785,
+    "city_name": "绥芬河",
+    "city_pinyin": "suifenhe",
+    "city_synonym": "suifenhe,sfh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 786,
+    "city_name": "黄花",
+    "city_pinyin": "huanghua",
+    "city_synonym": "huanghua,hh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 787,
+    "city_name": "神农架",
+    "city_pinyin": "shennongjia",
+    "city_synonym": "shennongjia,snj",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 788,
+    "city_name": "德令哈",
+    "city_pinyin": "delingha",
+    "city_synonym": "delingha,dlh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 789,
+    "city_name": "广华",
+    "city_pinyin": "guanghua",
+    "city_synonym": "guanghua,gh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 790,
+    "city_name": "梁平",
+    "city_pinyin": "liangping",
+    "city_synonym": "liangping,lp",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 791,
+    "city_name": "林西",
+    "city_pinyin": "linxi",
+    "city_synonym": "linxi,lx",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 792,
+    "city_name": "如皋",
+    "city_pinyin": "rugao",
+    "city_synonym": "rugao,rg",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 793,
+    "city_name": "宜兰",
+    "city_pinyin": "yilan",
+    "city_synonym": "yilan,yl",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 794,
+    "city_name": "元谋",
+    "city_pinyin": "yuanmou",
+    "city_synonym": "yuanmou,ym",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 798,
+    "city_name": "夏河",
+    "city_pinyin": "xiahe",
+    "city_synonym": "xiahe,xh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 799,
+    "city_name": "南竿",
+    "city_pinyin": "nangan",
+    "city_synonym": "nangan,ng",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 800,
+    "city_name": "秦皇岛北戴河",
+    "city_pinyin": "beidaihe",
+    "city_synonym": "beidaihe,qhdbdh",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  },
+  {
+    "city_id": 801,
+    "city_name": "如皋",
+    "city_pinyin": "rugao",
+    "city_synonym": "rugao,rg",
+    "city_level": 0,
+    "city_priority": 5,
+    "city_base_hot": 0
+  }
+]
+}
